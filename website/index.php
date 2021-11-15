@@ -91,7 +91,7 @@
 		<p><strong>Q: What version of Minecraft is the terrain generated in?</strong></p>
 		<p><strong>A:</strong> <span class="lightgreen">True</span><span class="red">OG</span> Terrain from spawn to 40k is 1.16.5. Terrain from 40k to 80k is 1.17.1. The world border will be expanded for each major update with new chunks.</p>
 		<p><strong>Q: Is a world download available?</strong></p>
-		<p><strong>A:</strong> The pre-launch world can be downloaded as a torrent <a href="#">here</a> for personal use only. Our license to use it commercially is non-transferrable. The post-launch map will not be published during the lifetime of the server.</p>
+		<p><strong>A:</strong> The pre-launch world can be downloaded as a torrent <a href="magnet:?xt=urn:btih:402df9c1d86bebb5f4b0523038e713dc3d50b0be&dn=smp.tar.gz&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969">here</a> for personal use only. Our license to use it commercially is non-transferrable. The post-launch map will not be published during the lifetime of the server.</p>
 		<p><strong>Q: How does the economy work?</strong></p>
 		<p><strong>A:</strong> Much like 2011-2013 era SMP servers, the <span class="lightgreen">True</span><span class="red">OG</span> economy is based on diamonds. Unlike Essentials money, they are a tangible object with a limited supply. As the universal currency, they combat inflation and facilitate fair, understandable transactions. /pay sends another player the specified amount of diamonds. /withdraw takes the specified amount of diamonds out of your bank account and places them into your inventory. /deposit works the other way around. Diamonds stored in your inventory or at the bank will count towards your balance, which can be checked with /balance. The bank is located to the right of the community marketplace entryway.</p>
 	</div>
@@ -252,7 +252,7 @@
   </div>
   <p>Powered by <a href="https://www.w3schools.com/w3css/">w3.css</a></p>
   <a href="https://www.spigotmc.org/resources/minecraft-one-page-template.59734/"><p>Forked from aviel900</p></a>
-  <a href="https://github.com/NotAlexNoyle/true-og/website"><p>Source Code</p></a>
+  <a href="https://github.com/NotAlexNoyle/true-og/tree/main/website"><p>Source Code</p></a>
 </footer>
 
 <script>
