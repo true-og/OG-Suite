@@ -1,0 +1,75 @@
+-----TRUEOG TODO LIST----
+
+	Find better torrent tracker
+
+	Adjust anti cheat: anti aimbot, better antixray
+
+	Golems spawn on half slabs
+
+	Fix guild command crash from icars
+
+	Add welcome message for new players explaining discord link
+
+	Make echest inventories accessible at spawn
+
+	Implement combat system with disconnect and zone monitoring
+
+	Fix ender pearl delay
+
+	Configure new plugins
+
+	Add ranks to the tab menu
+
+	Configure locale
+	
+	Work on other files besides config.yml in plugins
+	
+	Set up 5 cycling server announcements every 15 minutes
+
+	Implement diamond based areashops
+
+	Implement player bounties
+
+	Implement unions w/ no in-group pvp (like OG factions)
+
+	Implement premium cosmetics + determine other benefits
+
+	Set up rsync backups through essentials + RSNAPSHOT
+
+	Make whitelist kick message changer plugin
+
+	Update WGamemode plugin for new worldguard/worldedit 7.0.5
+
+	Fix remaining two /lc holes
+
+	Set up tebex store
+
+	Re-evaluate pregen question
+
+	Investigate lack of hard seed border
+
+	Redact seed and flare token from config files then publish everything to github
+
+	For release, reset everyones spawn location to spawn
+
+POST-LAUNCH:
+
+	Optimize diamond economy plugin's performance
+
+	Make villagers attracted to emerald blocks
+	
+	Fix discord bot mentions and custom emojis
+
+	Add reccomended mods/packs to website
+
+	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
+
+	Configure web console for better remote access
+
+	Arena kitpvp
+
+	Migrate to devuan/enlightenment
+
+	improve jayatana global menu support
+
+	Data recovery from SD card melt (merge WOSQI todos)
