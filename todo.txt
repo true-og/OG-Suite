@@ -1,5 +1,9 @@
 -----TRUEOG TODO LIST----
 
+	Config purpur + pufferfish (on uptime)
+
+	Write ping command based on https://github.com/MrCote33/MicroPing - may also help with tab groups and colors
+
 	Find better torrent tracker
 
 	Adjust anti cheat: anti aimbot, better antixray
@@ -63,6 +67,8 @@ POST-LAUNCH:
 	Add reccomended mods/packs to website
 
 	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
+
+	Try: https://github.com/vladmarica/better-ping-display
 
 	Configure web console for better remote access
 
