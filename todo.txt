@@ -1,6 +1,8 @@
 -----TRUEOG TODO LIST----
 
-	Config purpur + pufferfish (on uptime)
+	Config purpur uptime+messages
+
+	Finish setting up pufferfish options
 
 	Write ping command based on https://github.com/MrCote33/MicroPing - may also help with tab groups and colors
 
@@ -8,9 +10,9 @@
 
 	Adjust anti cheat: anti aimbot, better antixray
 
-	Golems spawn on half slabs
+	Custom /list command with no guild link
 
-	Fix guild command crash from icars
+	Website-Discord integration
 
 	Add welcome message for new players explaining discord link
 
@@ -26,17 +28,19 @@
 
 	Configure locale
 	
-	Work on other files besides config.yml in plugins
+	Config other files besides config.yml in plugins
 	
 	Set up 5 cycling server announcements every 15 minutes
 
-	Implement diamond based areashops
+	Finish diamond based areashops
 
-	Implement player bounties
+	Implement diamond based player bounties + head drops
 
-	Implement unions w/ no in-group pvp (like OG factions)
+	Implement unions with toggleable in-group pvp (like OG factions)
 
-	Implement premium cosmetics + determine other benefits
+	Implement premium cosmetics
+
+	Finalize donor benefits
 
 	Set up rsync backups through essentials + RSNAPSHOT
 
@@ -52,16 +56,18 @@
 
 	Investigate lack of hard seed border
 
+	ddos protection
+
 	Redact seed and flare token from config files then publish everything to github
 
 	For release, reset everyones spawn location to spawn
 
 POST-LAUNCH:
 
+	Minecraft-to-discord link
+
 	Optimize diamond economy plugin's performance
 
-	Make villagers attracted to emerald blocks
-	
 	Fix discord bot mentions and custom emojis
 
 	Add reccomended mods/packs to website
@@ -75,7 +81,3 @@ POST-LAUNCH:
 	Arena kitpvp
 
 	Migrate to devuan/enlightenment
-
-	improve jayatana global menu support
-
-	Data recovery from SD card melt (merge WOSQI todos)
