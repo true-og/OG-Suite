@@ -1,9 +1,5 @@
 -----TRUEOG TODO LIST----
 
-	Config purpur uptime+messages
-
-	Finish setting up pufferfish options
-
 	Write ping command based on https://github.com/MrCote33/MicroPing - may also help with tab groups and colors
 
 	Find better torrent tracker
@@ -58,15 +54,21 @@
 
 	ddos protection
 
-	Redact seed and flare token from config files then publish everything to github
+	Redact seed, flare token, and sentry dsn from config files, then publish everything to github
 
 	For release, reset everyones spawn location to spawn
 
 POST-LAUNCH:
 
-	Minecraft-to-discord link
+	Investigate finding laggiest chunks on map, and which player is causing what % of lag
 
-	Optimize diamond economy plugin's performance
+	Fix walking on powdered snow in 1.8
+
+	Change all formatting with &f to be &r unless white is demanded
+
+	Minecraft-to-discord account data link
+
+	Optimize diamond economy performance
 
 	Fix discord bot mentions and custom emojis
 
