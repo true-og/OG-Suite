@@ -32,6 +32,13 @@ font-family: 'Minecraftchmc-dBlX';
 
 }
 
+.discord-blue {
+
+	color: #738ADB;
+	text-color: #738ADB;
+
+}
+
 .green {
 
 	color: green;
@@ -73,6 +80,13 @@ font-family: 'Minecraftchmc-dBlX';
 	color: orange;
 	text-color: orange;
 
+}
+
+.purple {
+
+	color: purple;
+	text-color: purple;
+	
 }
 
 .red {

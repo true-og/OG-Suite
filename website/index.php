@@ -69,7 +69,7 @@
       <p class="reduce-line-height" style="font-size: 4vh; text-align: left"><span class="lightgreen">True</span><span class="red">OG</span> utilizes the 1.8 style PvP/PvE system with NO click-delay. We believe this model is vastly superior to 1.9+ combat. It's quicker, more intense, and has a longer, more fulfilling skill ladder. Mojang is well aware of the new system's flaws, which is why they haven't added it to Bedrock. The experimental combat snapshot also eliminates the click-delay, and we will consider switching to those new mechanics once they are rolled out in a future version of Minecraft. Until that time we are committed to supporting 1.8 combat.</p>
     </div>
     <div class="w3-quarter">
-      <i class="fa fa-diamond w3-margin-bottom w3-jumbo" style="color: lightblue"></i>
+      <i class="fa fa-diamond w3-margin-bottom w3-jumbo" style="color: #7DF9FF"></i>
       <p style="font-size: 5vh"><strong>Great on 1.8</strong></p>
       <p class="reduce-line-height" style="font-size: 4vh; text-align: left">Unlike some <i>other</i> servers, we don't believe in leaving our loyal players in the dust with no support. There are good reasons many people continue to use Minecraft 1.8. From performance, to combat, to mods. If you are one of them, welcome home! Here you will experience being treated like a first class citizen. We have working fishing rods, ladders, lily pads, and brewing stands. All potions work on 1.8 at their correct durations. Builds at spawn have been optimized for 1.8 block appearance. You can even craft enchanted golden apples and utilize classic (1.7 style) TNT cannons!</p>
     </div>
@@ -100,7 +100,7 @@
 		<p><strong>IP:</strong> true-og.net</p>
 		<p><strong>Host:</strong> DigitalOcean (NYC3)</p>
 		<p><strong>Hardware:</strong> Intel 4 Core CPU @ 2.5GHz | 8GB RAM | 160GB SSD | 1TB World Block Storage Volume</p>
-		<p><strong>Software:</strong> Debian 11 Bookworm | AdoptOpenJDK 16.0.2 | Airplane 1.17.1 | Source Code: <a href="https://github.com/NotAlexNoyle/true-og">GitHub</a></p>
+		<p><strong>Software:</strong> Debian 12 Bookworm | OpenJDK 16.0.2 | Pufferfish-Purpur 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">GitHub</a></strong></p>
 		<p><strong>Known Bugs:</strong></p>
 		<p><strong>1.8:</strong> no elytra, no boats, invisible end gateways.</p>
 		<p><strong>1.9-1.9.1:</strong> banners sometimes invisible.</p>
@@ -120,43 +120,63 @@
   <div class="w3-row-padding" style="margin-top:16px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="https://minotar.net/avatar/NotAlexNoyle" alt="NotAlexNoyle" style="width:100%">
+        <img src="https://crafatar.com/avatars/9c272295-71dd-4aad-b59e-3de12d73b68a" alt="NotAlexNoyle" style="width:100%">
         <div class="w3-container">
-		  <p style="font-size: 5vh" class="w3-center reduce-line-height-more"><strong>NotAlexNoyle</strong><br>
-		  <p style="font-size: 4vh" class="w3-center reduce-line-height-more">Owner / Developer</p>
-          <p style="font-size: 3vh" class="reduce-line-height">NotAlexNoyle founded <span class="lightgreen">True</span><span class="red">OG</span> to preserve and continue the worlds, along with the "OG" style of gameplay.</p>
+    		  <p style="font-size: 5vh" class="w3-center reduce-line-height-more purple"><strong>NotAlexNoyle</strong><br>
+    		  <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: #7DF9FF">&nbsp;Owner</span> + <span class="green">Developer&nbsp;</span></mark></p>
+    		  <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>NotAlexNoyle#4794</strong></p>
         </div>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="https://minotar.net/avatar/aviel900" alt="To Be Decided" style="width:100%">
+        <img src="https://crafatar.com/avatars/1ca5f38d-0f3b-4dd6-b675-70de09328f6c" alt="Burbie" style="width:100%">
         <div class="w3-container">
-          <p style="font-size: 5vh" class="w3-center reduce-line-height-more">TBA</p>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more">TBA</p>
-          <p style="font-size: 3vh" class="reduce-line-height">Staff will be announced shortly prior to public release.<br><br><br></p>
+          <p style="font-size: 5vh" class="w3-center reduce-line-height-more blue"><strong>Burbie_</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: blue;">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>Burbie?#5939</strong></p>
         </div>
       </div>
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom"> 
-      <div class="w3-card"> 
-        <img src="https://minotar.net/avatar/aviel900" alt="To Be Decided" style="width:100%"> 
-        <div class="w3-container"> 
-          <p style="font-size: 5vh" class="w3-center reduce-line-height-more">TBA</p> 
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more">TBA</p> 
-          <p style="font-size: 3vh" class="reduce-line-height">Staff will be announced shortly prior to public release.<br><br><br></p> 
-       </div>
-     </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://crafatar.com/avatars/966052e3-5424-4934-a2c1-81250f2d1d55" alt="ItzNinjaYT" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh" class="w3-center reduce-line-height-more blue"><strong>ItzNinjaYT</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: blue;">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>ItzNinjaYT#3132</strong></p>
+        </div>
+      </div>
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom"> 
-      <div class="w3-card"> 
-        <img src="https://minotar.net/avatar/aviel900" alt="To Be Decided" style="width:100%"> 
-        	<div class="w3-container"> 
-        	<p style="font-size: 5vh" class="w3-center reduce-line-height-more">TBA</p> 
-     		<p style="font-size: 4vh" class="w3-center reduce-line-height-more">TBA</p> 
-        	<p style="font-size: 3vh" class="reduce-line-height">Staff will be announced shortly prior to public release.<br><br><br></p> 
-       </div>
-     </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://crafatar.com/avatars/9950501e-140d-4f62-a883-06b989013d4d" alt="ElvisUHD" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>ElvisUHD</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink;">&nbsp;Builder&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>Elvis#5891</strong></p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://crafatar.com/avatars/0b107b65-c166-4b48-94c0-31bf26730df5" alt="iFlyCars" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>iFlyCars</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink;">&nbsp;Builder&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>Squidward#1815</strong></p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://crafatar.com/avatars/9f8277da-b652-467a-8d06-0c5795e2e967" alt="OpenGL3" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>OpenGL3</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink;">&nbsp;Builder&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>abcdef#6780</strong></p>
+        </div>
+      </div>
     </div>
   </div>
 </div>

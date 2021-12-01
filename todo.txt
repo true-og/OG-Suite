@@ -1,5 +1,17 @@
 -----TRUEOG TODO LIST----
 
+	Give elvis MVP prefix
+
+	Fix typos in diamond economy and light creative LEFT message
+
+	Block boats from entering spawn
+
+	Fix ice boating
+
+	Diagnose strange minecart behavior
+
+	Try 5 xmx xms
+
 	Write ping command based on https://github.com/MrCote33/MicroPing - may also help with tab groups and colors
 
 	Find better torrent tracker
@@ -9,6 +21,8 @@
 	Custom /list command with no guild link
 
 	Website-Discord integration
+
+	Add discord link/widget to website
 
 	Add welcome message for new players explaining discord link
 
