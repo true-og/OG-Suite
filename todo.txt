@@ -1,14 +1,20 @@
 -----TRUEOG TODO LIST----
 
-	Give elvis MVP prefix
+	Test lag on 1.17.1 -107 41 -204
+
+	Consider tp for builders
+
+	Adjust chunk loading
+
+	Fix flying squids
 
 	Fix typos in diamond economy and light creative LEFT message
 
 	Block boats from entering spawn
 
-	Fix ice boating
+	Prevent boat from kicking when it flys off cliff
 
-	Diagnose strange minecart behavior
+	Diagnose minecart bug
 
 	Try 5 xmx xms
 
@@ -30,7 +36,9 @@
 
 	Implement combat system with disconnect and zone monitoring
 
-	Fix ender pearl delay
+	Test ender pearl delay
+
+	Test minecarts
 
 	Configure new plugins
 
