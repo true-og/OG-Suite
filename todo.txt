@@ -1,18 +1,10 @@
 -----TRUEOG TODO LIST----
 
-	Test lag on 1.17.1 -107 41 -204
+	Support 1.18 clients
 
-	Consider tp for builders
+	Block boats from entering spawn programatically (test if needed)
 
-	Adjust chunk loading
-
-	Fix flying squids
-
-	Fix typos in diamond economy and light creative LEFT message
-
-	Block boats from entering spawn
-
-	Prevent boat from kicking when it flys off cliff
+	Prevent boat from kicking when it flys off cliff (test again)
 
 	Diagnose minecart bug
 
@@ -38,7 +30,7 @@
 
 	Test ender pearl delay
 
-	Test minecarts
+	Test minecarts running into mobs
 
 	Configure new plugins
 
@@ -82,6 +74,10 @@
 
 POST-LAUNCH:
 
+	1.18 server update
+
+	Fix typos in economy and lc plugins - fork/PR
+
 	Investigate finding laggiest chunks on map, and which player is causing what % of lag
 
 	Fix walking on powdered snow in 1.8
@@ -105,3 +101,7 @@ POST-LAUNCH:
 	Arena kitpvp
 
 	Migrate to devuan/enlightenment
+
+	Plugin to give tp for builders to track each other down
+
+	Fix chunk lag on 1.17.1 -107 41 -204
