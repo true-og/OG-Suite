@@ -100,7 +100,7 @@
 		<p><strong>IP:</strong> true-og.net</p>
 		<p><strong>Host:</strong> DigitalOcean (NYC3)</p>
 		<p><strong>Hardware:</strong> Intel 4 Core CPU @ 2.5GHz | 8GB RAM | 160GB SSD | 1TB World Block Storage Volume</p>
-		<p><strong>Software:</strong> Debian 12 Bookworm | OpenJDK 16.0.2 | Pufferfish-Purpur 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">GitHub</a></strong></p>
+		<p><strong>Software:</strong> Debian 12 Bookworm | OpenJDK Temurin 17.0.1 from <a href="https://adoptium.net/">Adoptium</a> | <a href="https://ci.pufferfish.host/job/Pufferfish-Purpur/">Pufferfish-Purpur</a> 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">GitHub</a></strong></p>
 		<p><strong>Known Bugs:</strong></p>
 		<p><strong>1.8:</strong> no elytra, no boats, invisible end gateways.</p>
 		<p><strong>1.9-1.9.1:</strong> banners sometimes invisible.</p>
@@ -132,8 +132,8 @@
       <div class="w3-card">
         <img src="https://crafatar.com/avatars/1ca5f38d-0f3b-4dd6-b675-70de09328f6c" alt="Burbie" style="width:100%">
         <div class="w3-container">
-          <p style="font-size: 5vh" class="w3-center reduce-line-height-more blue"><strong>Burbie_</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: blue;">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>Burbie_</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold;">&nbsp;Moderator&nbsp;</span></mark></p>
           <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>Burbie?#5939</strong></p>
         </div>
       </div>
@@ -142,8 +142,8 @@
       <div class="w3-card">
         <img src="https://crafatar.com/avatars/966052e3-5424-4934-a2c1-81250f2d1d55" alt="ItzNinjaYT" style="width:100%">
         <div class="w3-container">
-          <p style="font-size: 5vh" class="w3-center reduce-line-height-more blue"><strong>ItzNinjaYT</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: blue;">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more gold"><strong>ItzNinjaYT</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold;">&nbsp;Moderator&nbsp;</span></mark></p>
           <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>ItzNinjaYT#3132</strong></p>
         </div>
       </div>

@@ -8,13 +8,11 @@
 
 	Diagnose minecart bug
 
-	Try 5 xmx xms
-
-	Write ping command based on https://github.com/MrCote33/MicroPing - may also help with tab groups and colors
+	Write ping command based on https://github.com/MrCote33/MicroPing
 
 	Find better torrent tracker
 
-	Adjust anti cheat: anti aimbot, better antixray
+	Adjust anti cheat: anti aimbot, anti xray, running on ice
 
 	Custom /list command with no guild link
 
@@ -26,15 +24,11 @@
 
 	Make echest inventories accessible at spawn
 
-	Implement combat system with disconnect and zone monitoring
-
-	Test ender pearl delay
-
-	Test minecarts running into mobs
+	Implement custom combat system with disconnect and zone monitoring + pearl delay
 
 	Configure new plugins
 
-	Add ranks to the tab menu
+	Remove suffixes from tab
 
 	Configure locale
 	
@@ -68,6 +62,8 @@
 
 	ddos protection
 
+	Change all formatting with &f to be &r unless white is demanded
+
 	Redact seed, flare token, and sentry dsn from config files, then publish everything to github
 
 	For release, reset everyones spawn location to spawn
@@ -78,23 +74,17 @@ POST-LAUNCH:
 
 	Fix typos in economy and lc plugins - fork/PR
 
-	Investigate finding laggiest chunks on map, and which player is causing what % of lag
-
-	Fix walking on powdered snow in 1.8
-
-	Change all formatting with &f to be &r unless white is demanded
+	Investigate finding laggiest chunks on map, and which player is causing what % of lag. Example: -107 41 -204 (1.17.1)
 
 	Minecraft-to-discord account data link
 
 	Optimize diamond economy performance
 
-	Fix discord bot mentions and custom emojis
+	Fix discord bot dms, mentions, and custom emojis
 
 	Add reccomended mods/packs to website
 
 	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
-
-	Try: https://github.com/vladmarica/better-ping-display
 
 	Configure web console for better remote access
 
@@ -104,4 +94,3 @@ POST-LAUNCH:
 
 	Plugin to give tp for builders to track each other down
 
-	Fix chunk lag on 1.17.1 -107 41 -204
