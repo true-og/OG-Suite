@@ -1,6 +1,6 @@
 -----TRUEOG TODO LIST----
 
-	Support 1.18 clients
+	Show multiple discord ranks in game
 
 	Block boats from entering spawn programatically (test if needed)
 
@@ -60,8 +60,6 @@
 
 	Investigate lack of hard seed border
 
-	ddos protection
-
 	Change all formatting with &f to be &r unless white is demanded
 
 	Redact seed, flare token, and sentry dsn from config files, then publish everything to github
@@ -90,7 +88,8 @@ POST-LAUNCH:
 
 	Arena kitpvp
 
-	Migrate to devuan/enlightenment
+	Migrate to devuan/enlightenment for web server
+
+	Migrate to Pufferfish host from DigitalOcean
 
 	Plugin to give tp for builders to track each other down
-
