@@ -95,14 +95,16 @@
 		<p><strong>Q: How do I navigate the community marketplace?</strong></p>
 		<p><strong>A:</strong> <a href="market-map.png">This map may help</a>.</p>
 		<p><strong>Q: How does the economy work?</strong></p>
-		<p><strong>A:</strong> Much like 2011-2013 era SMP servers, the <span class="lightgreen">True</span><span class="red">OG</span> economy is based on diamonds. Unlike Essentials money, they are a tangible object with a limited supply. As the universal currency, they combat inflation and facilitate fair, understandable transactions. /pay sends another player the specified amount of diamonds. /withdraw takes the specified amount of diamonds out of your bank account and places them into your inventory. /deposit works the other way around. Diamonds stored in your inventory or at the bank will count towards your balance, which can be checked with /balance. The bank is located to the right of the community marketplace entryway.</p>
+		<p><strong>A:</strong> Like 2011-2013 era SMP servers, the <span class="lightgreen">True</span><span class="red">OG</span> economy is based on diamonds. Unlike Essentials money, they are a tangible object with a limited supply. As the universal currency, they combat inflation and facilitate fair, understandable transactions. /pay sends another player the specified amount of diamonds. /withdraw takes the specified amount of diamonds out of your bank account and places them into your inventory. /deposit works the other way around. Diamonds stored in your inventory or at the bank will count towards your balance, which can be checked with /balance. The bank is located to the right of the community marketplace entryway.</p>
 	</div>
 	<div class="w3-col m6">
-		<p><strong>Server Information:</strong></p>
-		<p><strong>IP:</strong> true-og.net</p>
-		<p><strong>Host:</strong> DigitalOcean (NYC3)</p>
-		<p><strong>Hardware:</strong> Intel 4 Core CPU @ 2.5GHz | 8GB RAM | 160GB SSD | 1TB World Block Storage Volume</p>
-		<p><strong>Software:</strong> Debian 12 Bookworm | OpenJDK Temurin 17.0.1 from <a href="https://adoptium.net/">Adoptium</a> | <a href="https://ci.pufferfish.host/job/Pufferfish-Purpur/">Pufferfish-Purpur</a> 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">GitHub</a></strong></p>
+		<p><strong>IP for Minecraft Java:</strong></p>
+		<br>
+		<p><strong>true-og.net</strong></p>
+		<br>
+		<p><strong>Host:</strong> <a href="https://pufferfish.host/">Pufferfish Host</a> in Falkenstein, Germany</p>
+		<p><strong>Hardware:</strong> AMD Ryzen 9 5950x (1 core and 3 threads with turbo to 3 cores and 6 threads) | 12GB RAM | 1TB Dedicated NVMe SSD | 1Gbps Unmetered Connection </p>
+		<p><strong>Software:</strong> <a href="https://ci.pufferfish.host/job/Pufferfish-Purpur/">Pufferfish-Purpur</a> 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">TrueOG on GitHub</a></strong></p>
 		<p><strong>Known Bugs:</strong></p>
 		<p><strong>1.8:</strong> no elytra, no boats, invisible end gateways.</p>
 		<p><strong>1.9-1.9.1:</strong> banners sometimes invisible.</p>

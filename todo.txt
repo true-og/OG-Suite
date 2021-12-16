@@ -14,8 +14,6 @@
 
 	Adjust anti cheat: anti aimbot, anti xray, running on ice
 
-	Custom /list command with no guild link
-
 	Website-Discord integration
 
 	Add discord link/widget to website
@@ -46,8 +44,6 @@
 
 	Finalize donor benefits
 
-	Set up rsync backups through essentials + RSNAPSHOT
-
 	Make whitelist kick message changer plugin
 
 	Update WGamemode plugin for new worldguard/worldedit 7.0.5
@@ -64,7 +60,7 @@
 
 	Redact seed, flare token, and sentry dsn from config files, then publish everything to github
 
-	For release, reset everyones spawn location to spawn
+	For release, reset everyones location to spawn
 
 POST-LAUNCH:
 
@@ -84,12 +80,6 @@ POST-LAUNCH:
 
 	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
 
-	Configure web console for better remote access
-
 	Arena kitpvp
-
-	Migrate to devuan/enlightenment for web server
-
-	Migrate to Pufferfish host from DigitalOcean
 
 	Plugin to give tp for builders to track each other down
