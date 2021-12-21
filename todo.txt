@@ -1,12 +1,14 @@
 -----TRUEOG TODO LIST----
 
-	Show multiple discord ranks in game
+	Update ARM/quickshop sign formatting
 
-	Block boats from entering spawn programatically (test if needed)
+	Report shopitemonly crash
 
-	Prevent boat from kicking when it flys off cliff (test again)
+	Finish stall regions
 
-	Diagnose minecart bug
+	Prevent boats from getting stuck in spawn region
+
+	Diagnose minecart bug and weeping vines crash
 
 	Write ping command based on https://github.com/MrCote33/MicroPing
 
@@ -14,9 +16,11 @@
 
 	Adjust anti cheat: anti aimbot, anti xray, running on ice
 
-	Website-Discord integration
+	Add server and discord widgets to website
 
-	Add discord link/widget to website
+	Add server join tutorial to website
+
+	Add shop tutorial to website
 
 	Add welcome message for new players explaining discord link
 
@@ -24,17 +28,13 @@
 
 	Implement custom combat system with disconnect and zone monitoring + pearl delay
 
-	Configure new plugins
+	Update all plugins and verify all types of config files are complete
 
 	Remove suffixes from tab
 
-	Configure locale
-	
-	Config other files besides config.yml in plugins
+	Configure spigot locale
 	
 	Set up 5 cycling server announcements every 15 minutes
-
-	Finish diamond based areashops
 
 	Implement diamond based player bounties + head drops
 
@@ -48,19 +48,17 @@
 
 	Update WGamemode plugin for new worldguard/worldedit 7.0.5
 
-	Fix remaining two /lc holes
+	Fix remaining /lc holes
 
 	Set up tebex store
-
-	Re-evaluate pregen question
 
 	Investigate lack of hard seed border
 
 	Change all formatting with &f to be &r unless white is demanded
 
-	Redact seed, flare token, and sentry dsn from config files, then publish everything to github
+	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
 
-	For release, reset everyones location to spawn
+	Reset everyones location to spawn
 
 POST-LAUNCH:
 
@@ -72,14 +70,18 @@ POST-LAUNCH:
 
 	Minecraft-to-discord account data link
 
-	Optimize diamond economy performance
+	Make replies to discord bot automatically /r person who is messaging you
 
-	Fix discord bot dms, mentions, and custom emojis
+	Fix mc-to-discord no-id mentions and custom emojis
 
 	Add reccomended mods/packs to website
 
 	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
 
 	Arena kitpvp
+
+	Spleef/Splegg
+
+	Show multiple discord ranks in game
 
 	Plugin to give tp for builders to track each other down

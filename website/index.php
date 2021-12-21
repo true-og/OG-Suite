@@ -43,11 +43,12 @@
 
 <!-- Header with full-height image -->
 <header class="bgimg-1" id="home" style="padding: 64px 32px">
-  <div class="left-pad" style="font-size: 4.5vw">
-	<span><mark class="main-text">&nbsp;Hello again world. Welcome home to the&nbsp;<br><span class="lightgreen">&nbsp;True</span><span class="darkred">OG</span> SMP!&nbsp;<br>&nbsp;Unique Meta. Historic Map. No resets<span class="darkred">&nbsp;ever</span>!&nbsp;</mark></span>
-	<p><span><a style="text-decoration:none; font-size: 3.5vw" href="https://youtu.be/jJHfFrv9ptc" class="w3-button-small w3-right w3-white w3-opacity w3-hover-opacity-off">&nbsp;UNOFFICIAL TRAILER&nbsp;</a></span></p>
+  <div class="w3-center" style="font-size: 4.5vw">
+	<br>
+	<mark class="main-text">&nbsp;Hello again world. Welcome home to the<span class="lightgreen">&nbsp;True</span><span class="darkred">OG</span> SMP!&nbsp;<br>&nbsp;Unique Meta. Historic Map. No resets<span class="darkred">&nbsp;ever</span>!&nbsp;</mark>
+	<p><a style="text-decoration:none; font-size: 3.5vw; background-color: #738ADB" href="https://discord.gg/ma9pMYpBU6" class="w3-button w3-opacity w3-hover-opacity-off">&nbsp;JOIN DISCORD&nbsp;</a></p>
   </div>
-  <div class="w3-display-bottomleft w3-text-white w3-large" style="padding:48px 64px">
+  <div class="w3-text-white w3-jumbo" style="padding:36px 48px">
     <a href="https://www.facebook.com/True-OG-108371428331070"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
 	<a href="https://twitter.com/TrueOGSMP"><i class="fa fa-twitter w3-hover-opacity"></i></a>
 	<a href="https://reddit.com/r/trueog"><i class="fa fa-reddit w3-hover-opacity"></i></a>
@@ -137,8 +138,8 @@
         <img src="https://crafatar.com/avatars/1ca5f38d-0f3b-4dd6-b675-70de09328f6c" alt="Burbie" style="width:100%">
         <div class="w3-container">
           <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>Burbie_</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold;">&nbsp;Moderator&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>Burbie?#5939</strong></p>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Burbie?#5939</strong></p>
         </div>
       </div>
     </div>
@@ -147,8 +148,18 @@
         <img src="https://crafatar.com/avatars/966052e3-5424-4934-a2c1-81250f2d1d55" alt="ItzNinjaYT" style="width:100%">
         <div class="w3-container">
           <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more gold"><strong>ItzNinjaYT</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold;">&nbsp;Moderator&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>ItzNinjaYT#3132</strong></p>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>ItzNinjaYT#3132</strong></p>
+        </div>
+      </div>
+    </div>
+        <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://crafatar.com/avatars/e0908757-b813-4a89-8c19-4f65612541b9" alt="Burbie" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>ixAl_</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>ixAl_#8810</strong></p>
         </div>
       </div>
     </div>
@@ -158,7 +169,7 @@
         <div class="w3-container">
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>ElvisUHD</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: #7DF9FF">&nbsp;MVP</span>&nbsp;+&nbsp;<span style="color: hotpink;">Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>Elvis#5891</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Elvis#5891</strong></p>
         </div>
       </div>
     </div>
@@ -167,8 +178,8 @@
         <img src="https://crafatar.com/avatars/0b107b65-c166-4b48-94c0-31bf26730df5" alt="iFlyCars" style="width:100%">
         <div class="w3-container">
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>iFlyCars</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink;">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>Squidward#1815</strong></p>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Squidward#1815</strong></p>
         </div>
       </div>
     </div>
@@ -177,8 +188,8 @@
         <img src="https://crafatar.com/avatars/9f8277da-b652-467a-8d06-0c5795e2e967" alt="OpenGL3" style="width:100%">
         <div class="w3-container">
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>OpenGL3</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink;">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>abcdef#6780</strong></p>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>abcdef#6780</strong></p>
         </div>
       </div>
     </div>
@@ -187,8 +198,8 @@
         <img src="https://crafatar.com/avatars/938697f8-c771-439e-b237-b1ce9b51d339" alt="Tolga1978" style="width:100%">
         <div class="w3-container">
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>Tolga1978</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink;">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>TolgaSnake#5112</strong></p>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>TolgaSnake#5112</strong></p>
         </div>
       </div>
     </div>
@@ -216,14 +227,14 @@
     <div class="w3-col l3 m6 w3-margin-bottom"> 
       <div class="w3-card"> 
         <div class="w3-container"> 
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZKKCgFZl5UQdK7Fo1DEdfPrORpuYWWht4kxZOYmqg8whBhQ/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="diamond-pickaxe-minecraft.png" style="height: 1em"></a> APPLY FOR BUILDER</button></a></p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZKKCgFZl5UQdK7Fo1DEdfPrORpuYWWht4kxZOYmqg8whBhQ/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="diamond-pickaxe-minecraft.png" style="height: 1em"> APPLY FOR BUILDER</button></a></p>
         </div>
      </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom"> 
       <div class="w3-card"> 
           <div class="w3-container"> 
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrIq2dr-43r3TJ0H31_NiKHLds0Zl7TgUvQ3vYHgnPGLwQGA/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="minecraft_heart.png" style="height: 1em"></a> APPLY FOR MODERATOR</button></a></p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrIq2dr-43r3TJ0H31_NiKHLds0Zl7TgUvQ3vYHgnPGLwQGA/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="minecraft_heart.png" style="height: 1em"> APPLY FOR MODERATOR</button></a></p>
        </div>
      </div>
     </div>
