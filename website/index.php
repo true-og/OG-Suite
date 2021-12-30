@@ -108,11 +108,10 @@
 		<p><strong>Software:</strong> <a href="https://ci.pufferfish.host/job/Pufferfish-Purpur/">Pufferfish-Purpur</a> 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">TrueOG on GitHub</a></strong></p>
 		<p><strong>Known Bugs:</strong></p>
 		<p><strong>1.8:</strong> no elytra, no boats, invisible end gateways.</p>
-		<p><strong>1.9-1.9.1:</strong> banners sometimes invisible.</p>
+		<p><strong>1.8-1.13:</strong>Banners glitchy.</p>
 		<p><strong>1.9-1.11.x:</strong> glide-only elytra.</p>
-		<p><strong>1.13.x & Below:</strong> uncraftable banners.</p>
 		<p><strong>Discord:</strong></p>
-		<p>Bots can't open DMs (/msg reply from in-game can't function).</p>
+		<p>Bot commands aren't working in bot DMs.</p>
 		<p>Username mentions from Minecraft to Discord require using back-end IDs.</p>
 		<p>Custom emojis don't work from Minecraft to Discord.</p>
 	</div>

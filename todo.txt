@@ -1,14 +1,8 @@
 -----TRUEOG TODO LIST----
 
-	Update ARM/quickshop sign formatting
-
-	Report shopitemonly crash
-
-	Finish stall regions
-
 	Prevent boats from getting stuck in spawn region
 
-	Diagnose minecart bug and weeping vines crash
+	Narrow minecart bug (caused by purpur) to a specific patch/setting
 
 	Write ping command based on https://github.com/MrCote33/MicroPing
 
@@ -52,8 +46,6 @@
 
 	Set up tebex store
 
-	Investigate lack of hard seed border
-
 	Change all formatting with &f to be &r unless white is demanded
 
 	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
@@ -62,11 +54,11 @@
 
 POST-LAUNCH:
 
-	1.18 server update
+	1.18 server update (pregen current terrain then update seed)
 
 	Fix typos in economy and lc plugins - fork/PR
 
-	Investigate finding laggiest chunks on map, and which player is causing what % of lag. Example: -107 41 -204 (1.17.1)
+	Investigate finding laggiest chunks on map, and which player is causing what % of lag. Example: -107 41 -204
 
 	Minecraft-to-discord account data link
 
@@ -76,6 +68,8 @@ POST-LAUNCH:
 
 	Add reccomended mods/packs to website
 
+	Try bobby mod
+
 	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
 
 	Arena kitpvp
@@ -83,5 +77,7 @@ POST-LAUNCH:
 	Spleef/Splegg
 
 	Show multiple discord ranks in game
+
+	Automatic command monitoring/logging
 
 	Plugin to give tp for builders to track each other down
