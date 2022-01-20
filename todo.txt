@@ -2,13 +2,13 @@
 
 	Prevent boats from getting stuck in spawn region
 
-	Narrow minecart bug (caused by purpur) to a specific patch/setting
-
 	Write ping command based on https://github.com/MrCote33/MicroPing
 
 	Find better torrent tracker
 
-	Adjust anti cheat: anti aimbot, anti xray, running on ice
+	Fix stairs etc being glitchy on 1.18
+
+	Adjust anti cheat: anti aimbot, anti xray
 
 	Add server and discord widgets to website
 
@@ -68,7 +68,9 @@ POST-LAUNCH:
 
 	Add reccomended mods/packs to website
 
-	Try bobby mod
+	Compare bobby mod vs fartherviewdistance
+
+	Some way to get people unstuck on powdered snow and in holes /ghostfix?
 
 	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
 

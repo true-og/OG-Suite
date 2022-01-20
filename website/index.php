@@ -144,11 +144,11 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="https://crafatar.com/avatars/966052e3-5424-4934-a2c1-81250f2d1d55" alt="ItzNinjaYT" style="width:100%">
+        <img src="https://crafatar.com/avatars/42ca230e-d44d-4c4b-841c-2d0bedb4f005" alt="dvik" style="width:100%">
         <div class="w3-container">
-          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more gold"><strong>ItzNinjaYT</strong><br>
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more gold"><strong>dvik</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>ItzNinjaYT#3132</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Dvik#7958</strong></p>
         </div>
       </div>
     </div>
