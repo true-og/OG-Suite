@@ -1,20 +1,60 @@
 -----TRUEOG TODO LIST----
 
-	Prevent boats from getting stuck in spawn region
 
-	Write ping command based on https://github.com/MrCote33/MicroPing
+PRE-LAUNCH:
 
-	Find better torrent tracker
 
-	Fix stairs etc being glitchy on 1.18
+	Verify creepers behave correctly
 
-	Adjust anti cheat: anti aimbot, anti xray
+	Add color codes in books and on items
 
-	Add server and discord widgets to website
+	Make death messages correct rank colors (probably bountyhunters messing with it)
 
-	Add server join tutorial to website
+	Make sure that quickshop doesn't work outside of the market
 
-	Add shop tutorial to website
+	Put player info above heads
+
+	Fix staff getting kicked into survival upon relog
+
+	Add /rules in-game
+
+	Make sure all ranks have necessary worldguard region permissions
+
+	Fix worldedit's automatic gravity (caused by USE falg being disallowed)
+
+	Fix builders not taking damage in the warzone. test moderator damage
+
+	Make /arm listregions available to all
+
+	Make all shop floors editable by their owners
+
+	Toggleable death coordinates for donors
+
+	Fix staff taking no lava damage in warzone and arena. test other fire damage.
+
+	Verify that all extensions (papi included) are FOSS
+
+	Renew shop rentals once
+
+	Add market map to in-game board
+
+	Test netherite fire resistance
+
+	Fix weird characters in bed dialog message
+
+	Show unions in #in-game prefixes
+
+	change blacklist message for diamonds to "you cannot sell the currency"
+
+	Easier mob head drops
+
+	Fix bone meal at spawn
+
+	Fix snow buckets breaking grass
+
+	Keep chunks loaded while villagers are being cured
+
+	Write ping/bong command based on https://github.com/MrCote33/MicroPing
 
 	Add welcome message for new players explaining discord link
 
@@ -24,15 +64,7 @@
 
 	Update all plugins and verify all types of config files are complete
 
-	Remove suffixes from tab
-
-	Configure spigot locale
-	
-	Set up 5 cycling server announcements every 15 minutes
-
-	Implement diamond based player bounties + head drops
-
-	Implement unions with toggleable in-group pvp (like OG factions)
+	Set up 6 cycling server announcements every 10 minutes
 
 	Implement premium cosmetics
 
@@ -46,40 +78,132 @@
 
 	Set up tebex store
 
-	Change all formatting with &f to be &r unless white is demanded
-
 	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
 
 	Reset everyones location to spawn
 
+	Set up borgbackup on storage box
+
+	test /ignore permissions
+
+	get fartherviewdistance
+
+	builder team management software
+
+	Some way to get people unstuck on powdered snow and in holes /ghostfix?
+
+
 POST-LAUNCH:
 
-	1.18 server update (pregen current terrain then update seed)
+
+	Find laggiest chunks with clearlagg (-107 41 -204 for example)
+	
+	Change all formatting with &f to be &r unless white is demanded
+	
+	Configure spigot locale
+	
+	Add shop tutorial to website
+	
+	1.18 Update Trailer
+
+	Add server join tutorial to website
+	
+	Add server and discord widgets to website
+	
+	Adjust anti cheat: better anti aimbot, anti xray
+	
+	Fix stairs, half slabs, fences, and more from being glitchy to walk on in 1.18
+
+	Find better torrent tracker for old world
+	
+	Prevent boats from getting stuck in spawn region
+
+	Fix boat clutching
+
+	Scaffolding anti-cheat fix
+	
+	Fix raid farm spawn rates (1/3 what it should be)
+
+	Fix mobs getting stuck in raid farm walls (probably purpur)
+	
+	Buff axe damage (test if this is still needed after iframe fix)
+	
+	Make /lc inventory persistent
+	
+	Fix sheilds activating when using fence gates
+
+	Fix not being able to sell items for more than 64 diamonds
+	
+	Nether spawn
+	
+	Improve shield/sword rubber banding
+	
+	Make tridents usable in spawn areas
+	
+	Increase chat character limit for staff
+
+	Make worldedit commands exempt from character limit
+	
+	Prevent boat bombs
+	
+	Make chain armor craftable with chains
+	
+	Alias /petm, /clearinventory, /qs, and others
+	
+	Redirect messages for /baltop, /ah, /f, and others
+	
+	Fix /lagg clear scooping up death piles
+
+	Give mods permission to open market chests (with logging)
+
+	Premium CDN? Multiple end-points? Distributed server with mineql?
+
+	Run /list in bot dms
+
+	Bedrock support (after new no-click-delay combat system is rolled out to minecraft)
+
+	Optimize both site and server for bandwidth usage - try to get indexed on wiby
+
+	1.18 server update (update overworld seed then expand overworld and nether borders to 96k/12k)
+
+	pvp test server to fix invincibility frames
 
 	Fix typos in economy and lc plugins - fork/PR
 
-	Investigate finding laggiest chunks on map, and which player is causing what % of lag. Example: -107 41 -204
+	Investigate finding which player is causing what % of lag
 
 	Minecraft-to-discord account data link
+
+	Friend system with /ignore retained and personal discord dm link
 
 	Make replies to discord bot automatically /r person who is messaging you
 
 	Fix mc-to-discord no-id mentions and custom emojis
 
-	Add reccomended mods/packs to website
-
-	Compare bobby mod vs fartherviewdistance
-
-	Some way to get people unstuck on powdered snow and in holes /ghostfix?
-
+	Try walia mod
+	
 	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
 
 	Arena kitpvp
+
+	TrueOG texture pack
 
 	Spleef/Splegg
 
 	Show multiple discord ranks in game
 
+	Shared union diamond bank accounts
+
+	Union allies/enemies
+
+	Enhanced union descriptions
+
 	Automatic command monitoring/logging
+
+	web monitoring gui
+
+	Return rental shop diamonds based on how much time is left
+	
+	staff panel + more advanced punishments plugin
 
 	Plugin to give tp for builders to track each other down
