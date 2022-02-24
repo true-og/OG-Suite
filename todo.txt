@@ -4,69 +4,41 @@
 PRE-LAUNCH:
 
 
-	Verify creepers behave correctly
+	Optimize union list+help permissions
 
-	Add color codes in books and on items
-
-	Make death messages correct rank colors (probably bountyhunters messing with it)
-
-	Make sure that quickshop doesn't work outside of the market
-
-	Put player info above heads
+	Put player info above heads (TagAPI)
 
 	Fix staff getting kicked into survival upon relog
 
-	Add /rules in-game
+	Add rules to website
+
+	Update staff and tester walls
 
 	Make sure all ranks have necessary worldguard region permissions
 
 	Fix worldedit's automatic gravity (caused by USE falg being disallowed)
 
-	Fix builders not taking damage in the warzone. test moderator damage
-
-	Make /arm listregions available to all
-
-	Make all shop floors editable by their owners
-
-	Toggleable death coordinates for donors
+	Verify that all shop floors are editable by their owners
 
 	Fix staff taking no lava damage in warzone and arena. test other fire damage.
 
-	Verify that all extensions (papi included) are FOSS
+	Expand warzone + protect warzone observation deck
 
-	Renew shop rentals once
-
-	Add market map to in-game board
-
-	Test netherite fire resistance
-
-	Fix weird characters in bed dialog message
-
-	Show unions in #in-game prefixes
-
-	change blacklist message for diamonds to "you cannot sell the currency"
-
-	Easier mob head drops
+	Verify that all plugins (papi extensions included) are FOSS
 
 	Fix bone meal at spawn
 
-	Fix snow buckets breaking grass
+	Fix snow buckets breaking grass at spawn
 
 	Keep chunks loaded while villagers are being cured
 
-	Write ping/bong command based on https://github.com/MrCote33/MicroPing
-
-	Add welcome message for new players explaining discord link
-
-	Make echest inventories accessible at spawn
-
 	Implement custom combat system with disconnect and zone monitoring + pearl delay
 
-	Update all plugins and verify all types of config files are complete
-
-	Set up 6 cycling server announcements every 10 minutes
+	Set up 4 more cycling server announcements
 
 	Implement premium cosmetics
+
+	Implement home earning system
 
 	Finalize donor benefits
 
@@ -74,27 +46,51 @@ PRE-LAUNCH:
 
 	Update WGamemode plugin for new worldguard/worldedit 7.0.5
 
-	Fix remaining /lc holes
-
-	Set up tebex store
+	Set up tebex store or FOSS alternative?
 
 	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
 
-	Reset everyones location to spawn
+	Reset everyones location to spawn and reset kills/deaths before launch
 
 	Set up borgbackup on storage box
-
-	test /ignore permissions
 
 	get fartherviewdistance
 
 	builder team management software
 
-	Some way to get people unstuck on powdered snow and in holes /ghostfix?
+	Make death messages reflect correct rank
+	
+	Expand FAQ
+
+	Find better torrent tracker for old world
+
+	Try walia mod
+
+	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
 
 
 POST-LAUNCH:
 
+
+	Bring back netherite fire resistance
+
+	Fix weird characters in bed dialog message when multiple players are online
+	
+	Leaderboar hologram + other holograms
+
+	Launchpad for parkour and splegg like SG 7
+
+	Write ping/bong command based on https://github.com/MrCote33/MicroPing
+	
+	Make echest inventories accessible at spawn
+	
+	Some way to get people unstuck on powdered snow and in holes /ghostfix?
+	
+	Fix remaining /lc holes
+
+	Toggleable death coordinates for og master and above
+
+	Alias /action or /tellraw to replicate old hivemc /say command
 
 	Find laggiest chunks with clearlagg (-107 41 -204 for example)
 	
@@ -102,19 +98,13 @@ POST-LAUNCH:
 	
 	Configure spigot locale
 	
-	Add shop tutorial to website
-	
 	1.18 Update Trailer
 
-	Add server join tutorial to website
-	
 	Add server and discord widgets to website
 	
 	Adjust anti cheat: better anti aimbot, anti xray
 	
 	Fix stairs, half slabs, fences, and more from being glitchy to walk on in 1.18
-
-	Find better torrent tracker for old world
 	
 	Prevent boats from getting stuck in spawn region
 
@@ -129,7 +119,7 @@ POST-LAUNCH:
 	Buff axe damage (test if this is still needed after iframe fix)
 	
 	Make /lc inventory persistent
-	
+
 	Fix sheilds activating when using fence gates
 
 	Fix not being able to sell items for more than 64 diamonds
@@ -140,55 +130,39 @@ POST-LAUNCH:
 	
 	Make tridents usable in spawn areas
 	
-	Increase chat character limit for staff
+	Increase chat character limit for og master and above
 
-	Make worldedit commands exempt from character limit
-	
-	Prevent boat bombs
-	
 	Make chain armor craftable with chains
 	
-	Alias /petm, /clearinventory, /qs, and others
+	Alias /petm, /clearinventory
 	
-	Redirect messages for /baltop, /ah, /f, and others
+	Redirect messages for /baltop, /ah, /f
 	
 	Fix /lagg clear scooping up death piles
 
-	Give mods permission to open market chests (with logging)
+	Give mods permission to open market chests
 
 	Premium CDN? Multiple end-points? Distributed server with mineql?
 
-	Run /list in bot dms
+	Run /list and initiate replies from bot dms
 
 	Bedrock support (after new no-click-delay combat system is rolled out to minecraft)
 
-	Optimize both site and server for bandwidth usage - try to get indexed on wiby
-
-	1.18 server update (update overworld seed then expand overworld and nether borders to 96k/12k)
+	1.18 server update (update plugins, change overworld seed, then expand overworld and nether borders to 96k/12k)
 
 	pvp test server to fix invincibility frames
 
-	Fix typos in economy and lc plugins - fork/PR
-
-	Investigate finding which player is causing what % of lag
+	Fix typos in economy and lc plugins
 
 	Minecraft-to-discord account data link
 
 	Friend system with /ignore retained and personal discord dm link
 
-	Make replies to discord bot automatically /r person who is messaging you
-
-	Fix mc-to-discord no-id mentions and custom emojis
-
-	Try walia mod
-	
-	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
+	Add mc-to-discord no-id tab-completed mentions and custom emojis
 
 	Arena kitpvp
 
-	TrueOG texture pack
-
-	Spleef/Splegg
+	Spleef+Splegg
 
 	Show multiple discord ranks in game
 
@@ -200,10 +174,12 @@ POST-LAUNCH:
 
 	Automatic command monitoring/logging
 
-	web monitoring gui
+	Server monitoring gui
 
 	Return rental shop diamonds based on how much time is left
 	
-	staff panel + more advanced punishments plugin
+	Staff panel
 
-	Plugin to give tp for builders to track each other down
+	More advanced punishments plugin
+
+	Allow builders to tp to each other at spawn
