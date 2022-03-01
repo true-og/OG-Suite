@@ -1,79 +1,75 @@
 -----TRUEOG TODO LIST----
 
+Soon:
 
-PRE-LAUNCH:
+	Fix bounty login message
 
+	Enhance/Add more server messages
 
-	Optimize union list+help permissions
-
-	Put player info above heads (TagAPI)
-
-	Fix staff getting kicked into survival upon relog
+	Improve mc-to-discord message formatting
 
 	Add rules to website
 
-	Update staff and tester walls
-
-	Make sure all ranks have necessary worldguard region permissions
-
-	Fix worldedit's automatic gravity (caused by USE falg being disallowed)
+	Update in game rules
 
 	Verify that all shop floors are editable by their owners
 
-	Fix staff taking no lava damage in warzone and arena. test other fire damage.
+	Fix staff taking no lava damage in warzone and arena. test other fire/enviornmental damage.
 
-	Expand warzone + protect warzone observation deck
-
-	Verify that all plugins (papi extensions included) are FOSS
-
-	Fix bone meal at spawn
-
-	Fix snow buckets breaking grass at spawn
-
-	Keep chunks loaded while villagers are being cured
-
-	Implement custom combat system with disconnect and zone monitoring + pearl delay
-
-	Set up 4 more cycling server announcements
-
-	Implement premium cosmetics
+	Implement donor cosmetics
 
 	Implement home earning system
 
-	Finalize donor benefits
-
-	Make whitelist kick message changer plugin
-
-	Update WGamemode plugin for new worldguard/worldedit 7.0.5
-
-	Set up tebex store or FOSS alternative?
-
-	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
-
-	Reset everyones location to spawn and reset kills/deaths before launch
+	Decide on initial donor benefits
 
 	Set up borgbackup on storage box
 
 	get fartherviewdistance
 
-	builder team management software
-
-	Make death messages reflect correct rank
-	
 	Expand FAQ
+
+	Add in-game FAQ
 
 	Find better torrent tracker for old world
 
-	Try walia mod
+Pre Launch:
 
-	Try: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix
+	Set up tebex store or FOSS alternative
+	
+	Fix worldedit's automatic gravity (caused by USE falg being disallowed)
+	
+	Set up builder team management software
+	
+	Expand warzone + protect warzone observation deck
+	
+	Fix staff getting kicked into survival upon relog
+	
+	Make sure all ranks have necessary worldguard region permissions
+	
+	Implement combat system with disconnect and zone monitoring + pearl delay
+	
+	Put player info above heads (TagAPI)
+	
+	Fix snow buckets breaking grass at spawn
+	
+	Make whitelist kick message changer plugin
 
+	Update WGamemode plugin for new worldguard/worldedit 7.0.5
 
-POST-LAUNCH:
+	Verify that all plugins (papi extensions included) are FOSS
+	
+	Reset everyones location to spawn and reset kills/deaths
+	
+	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
 
+Post Launch:
+
+	Keep chunks loaded while villagers are being cured
 
 	Bring back netherite fire resistance
 
+	Make death messages reflect correct rank
+	
 	Fix weird characters in bed dialog message when multiple players are online
 	
 	Leaderboar hologram + other holograms
@@ -139,6 +135,8 @@ POST-LAUNCH:
 	Redirect messages for /baltop, /ah, /f
 	
 	Fix /lagg clear scooping up death piles
+
+	Add recommended mods to website
 
 	Give mods permission to open market chests
 
