@@ -2,15 +2,11 @@
 
 Soon:
 
-	Fix bounty login message
-
-	Enhance/Add more server messages
-
-	Improve mc-to-discord message formatting
+	Make whitelist kick message changer plugin
+	
+	4 More server messages
 
 	Add rules to website
-
-	Update in game rules
 
 	Verify that all shop floors are editable by their owners
 
@@ -30,39 +26,43 @@ Soon:
 
 	Add in-game FAQ
 
+	Voting plugin
+	
 	Find better torrent tracker for old world
 
-Pre Launch:
-
 	Set up tebex store or FOSS alternative
-	
-	Fix worldedit's automatic gravity (caused by USE falg being disallowed)
-	
-	Set up builder team management software
-	
-	Expand warzone + protect warzone observation deck
-	
-	Fix staff getting kicked into survival upon relog
-	
-	Make sure all ranks have necessary worldguard region permissions
-	
+
+	Replace legacy plugins with modern plugins: Playtimes, NoClip
+
 	Implement combat system with disconnect and zone monitoring + pearl delay
+
+	Put player info above heads (TagAPI - TAG/Stylizer update?)
+
+Pre launch:
 	
-	Put player info above heads (TagAPI)
+	fix worldedit's automatic gravity (caused by use falg being disallowed)
 	
-	Fix snow buckets breaking grass at spawn
+	set up builder team management software
 	
-	Make whitelist kick message changer plugin
+	expand warzone + protect warzone observation deck
+	
+	fix staff getting kicked into survival upon relog
+	
+	make sure all ranks have necessary worldguard region permissions
+	
+	fix snow buckets breaking grass at spawn (build new pufferfish)
 
 	Update WGamemode plugin for new worldguard/worldedit 7.0.5
 
-	Verify that all plugins (papi extensions included) are FOSS
-	
 	Reset everyones location to spawn and reset kills/deaths
+
+	Replace proprietary plugins with FOSS plugins: ClearLag, SaveDeathDrops, DiamondBank, NewbsCreative
 	
 	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
 
 Post Launch:
+
+	In-game survey plugin
 
 	Keep chunks loaded while villagers are being cured
 
