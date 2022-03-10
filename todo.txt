@@ -8,8 +8,6 @@ Soon:
 
 	Add rules to website
 
-	Verify that all shop floors are editable by their owners
-
 	Fix staff taking no lava damage in warzone and arena. test other fire/enviornmental damage.
 
 	Implement donor cosmetics
@@ -30,7 +28,7 @@ Soon:
 	
 	Find better torrent tracker for old world
 
-	Set up tebex store or FOSS alternative
+	Finish setting up CraftingStore
 
 	Replace legacy plugins with modern plugins: Playtimes, NoClip
 
@@ -38,11 +36,13 @@ Soon:
 
 	Put player info above heads (TagAPI - TAG/Stylizer update?)
 
+	set up builder team management software
+
 Pre launch:
 	
+	Improve anti xray
+
 	fix worldedit's automatic gravity (caused by use falg being disallowed)
-	
-	set up builder team management software
 	
 	expand warzone + protect warzone observation deck
 	
@@ -61,6 +61,10 @@ Pre launch:
 	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
 
 Post Launch:
+
+	Make checking someone elses balance case insensitive
+
+	Improve anti cheat: hitboxes, killaura, reach, velocity
 
 	In-game survey plugin
 
@@ -97,8 +101,6 @@ Post Launch:
 	1.18 Update Trailer
 
 	Add server and discord widgets to website
-	
-	Adjust anti cheat: better anti aimbot, anti xray
 	
 	Fix stairs, half slabs, fences, and more from being glitchy to walk on in 1.18
 	
