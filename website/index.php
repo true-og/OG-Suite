@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <title>TrueOG SMP</title>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="stylesheet.css?v=<?php echo time(); ?>">
+<link rel="stylesheet" href="stylesheet.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
@@ -32,8 +32,8 @@
 </div>
 
 <!-- Sidebar on small screens when clicking the menu icon -->
-<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none; font-size: 4vh" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display: none; font-size: 4vh" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close x</a>
   <a href="#features" onclick="w3_close()" class="w3-bar-item w3-button">Features</a>
   <a href="#faq" onclick="w3_close()" class="w3-bar-item w3-button">FAQ</a>
   <a href="#staff" onclick="w3_close()" class="w3-bar-item w3-button">Staff</a>
@@ -48,10 +48,10 @@
 	<mark class="main-text">&nbsp;Hello again world. Welcome home to the<span class="lightgreen">&nbsp;True</span><span class="darkred">OG</span> SMP!&nbsp;<br>&nbsp;Unique Meta. Historic Map. No resets<span class="darkred">&nbsp;ever</span>!&nbsp;</mark>
 	<p><a style="text-decoration:none; font-size: 3.5vw; background-color: #738ADB" href="https://discord.gg/ma9pMYpBU6" class="w3-button w3-opacity w3-hover-opacity-off">&nbsp;JOIN DISCORD&nbsp;</a></p>
   </div>
-  <div class="w3-text-white w3-jumbo" style="padding:36px 48px">
-    <a href="https://www.facebook.com/True-OG-108371428331070"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
-	<a href="https://twitter.com/TrueOGSMP"><i class="fa fa-twitter w3-hover-opacity"></i></a>
-	<a href="https://reddit.com/r/trueog"><i class="fa fa-reddit w3-hover-opacity"></i></a>
+  <div class="w3-text-white w3-jumbo w3-center" style="padding:36px 48px">
+    <a href="https://www.facebook.com/True-OG-108371428331070"><i class="fa fa-facebook-official w3-hover-opacity" style="color: blue"></i></a>
+	<a href="https://twitter.com/TrueOGSMP"><i class="fa fa-twitter w3-hover-opacity" style="color: lightblue"></i></a>
+	<a href="https://reddit.com/r/trueog"><i class="fa fa-reddit w3-hover-opacity orange"></i></a>
   </div>
 </header>
 
@@ -76,8 +76,8 @@
     </div>
     <div class="w3-quarter">
       <i class="fa fa-cog w3-margin-bottom w3-jumbo grey"></i>
-      <p style="font-size: 5vh"><strong>Fully Open Source</strong></p>
-	    <p class="reduce-line-height" style="font-size: 4vh; text-align: left"><span class="lightgreen">True</span><span class="red">OG</span> is run by a dedicated Socialist and open source advocate. As such, the server will be published to GitHub in its entirety. Original code uses <a style="text-decoration: none;"href="https://unlicense.org/">The Unlicense</a>, meaning it is released into the public domain for any purpose, commercial or personal, for free, forever. The code for community projects utilized by <span class="lightgreen">True</span><span class="red">OG</span> is linked to on GitHub. Their respective terms must be followed. The only proprietary part of <span class="lightgreen">True</span><span class="red">OG</span> is our post-launch map and seed. This is to prevent coordinates and bases from being compromised.</p>
+      <p style="font-size: 5vh"><strong>Open Source</strong></p>
+	    <p class="reduce-line-height" style="font-size: 4vh; text-align: left"><span class="lightgreen">True</span><span class="red">OG</span> is run by a dedicated Socialist and open source advocate. As such, the server will be published to GitHub in its entirety. Original code uses <a href="https://unlicense.org/" style="text-decoration: none">The Unlicense</a>, meaning it is released into the public domain for any purpose, commercial or personal, for free, forever. The code for community projects utilized by <span class="lightgreen">True</span><span class="red">OG</span> is linked to on GitHub. Their respective terms must be followed. The only proprietary part of <span class="lightgreen">True</span><span class="red">OG</span> is our post-launch map and seed. This is to prevent coordinates and bases from being compromised.</p>
     </div>
   </div>
 </div>
@@ -101,11 +101,12 @@
 	</div>
 	<div class="w3-col m6">
 		<p><strong>IP for Minecraft Java:</strong></p>
-		<br>
 		<p><strong>true-og.net</strong></p>
-		<br>
-		<p><strong>Host:</strong> <a href="https://pufferfish.host/">Pufferfish Host</a> in Falkenstein, Germany</p>
-		<p><strong>Hardware:</strong> AMD Ryzen 9 5950x (1 core and 3 threads with turbo to 3 cores and 6 threads) | 12GB RAM | 1TB Dedicated NVMe SSD | 1Gbps Unmetered Connection </p>
+		<p><strong>trueog.net</strong></p>
+		<p>Alternate: <strong>play.true-og.net</strong></p>
+		<p>Alternate: <strong>play.trueog.net</strong></p>
+		<p><strong>Host:</strong> <a href="https://www.hetzner.com/dedicated-rootserver/ax61-nvme">Hetzner AX61-NVME</a> in Falkenstein, Germany</p>
+		<p><strong>Hardware:</strong> Dedicated AMD Ryzen 9 3900x | 128GB RAM (SMP uses 24GB) | 1.92TB Dedicated NVMe SSD (RAID Cloned) | 1Gbps+ Unmetered Connection </p>
 		<p><strong>Software:</strong> <a href="https://ci.pufferfish.host/job/Pufferfish-Purpur/">Pufferfish-Purpur</a> 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">TrueOG on GitHub</a></strong></p>
 		<p><strong>Known Bugs:</strong></p>
 		<p><strong>1.8:</strong> no elytra, no boats, invisible end gateways.</p>
@@ -129,7 +130,7 @@
         <div class="w3-container">
     		  <p style="font-size: 5vh" class="w3-center reduce-line-height-more purple"><strong>NotAlexNoyle</strong><br>
     		  <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: #7DF9FF">&nbsp;Owner</span> + <span class="green">Developer&nbsp;</span></mark></p>
-    		  <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px;"/> <strong>NotAlexNoyle#4794</strong></p>
+    		  <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px;"/> <strong>NotAlexNoyle#4794</strong></p>
         </div>
       </div>
     </div>
@@ -139,7 +140,7 @@
         <div class="w3-container">
           <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>Burbie_</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Burbie?#5939</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>Burbie?#5939</strong></p>
         </div>
       </div>
     </div>
@@ -149,7 +150,7 @@
         <div class="w3-container">
           <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more gold"><strong>dvik</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Dvik#7958</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>Dvik#7958</strong></p>
         </div>
       </div>
     </div>
@@ -159,7 +160,17 @@
         <div class="w3-container">
           <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>ixAl_</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>ixAl_#8810</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>ixAl_#8810</strong></p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://crafatar.com/avatars/938697f8-c771-439e-b237-b1ce9b51d339" alt="Tolga1978" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>Tolga1978</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>TolgaSnake#5112</strong></p>
         </div>
       </div>
     </div>
@@ -169,17 +180,7 @@
         <div class="w3-container">
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>ElvisUHD</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: #7DF9FF">&nbsp;MVP</span>&nbsp;+&nbsp;<span style="color: hotpink;">Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Elvis#5891</strong></p>
-        </div>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-card">
-        <img src="https://crafatar.com/avatars/0b107b65-c166-4b48-94c0-31bf26730df5" alt="iFlyCars" style="width:100%">
-        <div class="w3-container">
-          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>iFlyCars</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>Squidward#1815</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>Elvis#5891</strong></p>
         </div>
       </div>
     </div>
@@ -189,17 +190,7 @@
         <div class="w3-container">
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>OpenGL3</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>abcdef#6780</strong></p>
-        </div>
-      </div>
-    </div>
-      <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-card">
-        <img src="https://crafatar.com/avatars/938697f8-c771-439e-b237-b1ce9b51d339" alt="Tolga1978" style="width:100%">
-        <div class="w3-container">
-          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>Tolga1978</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" style="max-width: 48px"/> <strong>TolgaSnake#5112</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>abcdef#6780</strong></p>
         </div>
       </div>
     </div>
@@ -227,14 +218,14 @@
     <div class="w3-col l3 m6 w3-margin-bottom"> 
       <div class="w3-card"> 
         <div class="w3-container"> 
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZKKCgFZl5UQdK7Fo1DEdfPrORpuYWWht4kxZOYmqg8whBhQ/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="diamond-pickaxe-minecraft.png" style="height: 1em"> APPLY FOR BUILDER</button></a></p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZKKCgFZl5UQdK7Fo1DEdfPrORpuYWWht4kxZOYmqg8whBhQ/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="diamond-pickaxe-minecraft.png" alt="Diamond Pickaxe Icon" style="height: 1em"> APPLY FOR BUILDER</button></a></p>
         </div>
      </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom"> 
       <div class="w3-card"> 
           <div class="w3-container"> 
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrIq2dr-43r3TJ0H31_NiKHLds0Zl7TgUvQ3vYHgnPGLwQGA/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="minecraft_heart.png" style="height: 1em"> APPLY FOR MODERATOR</button></a></p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrIq2dr-43r3TJ0H31_NiKHLds0Zl7TgUvQ3vYHgnPGLwQGA/viewform?usp=sf_link" style="text-decoration: none"><button class="w3-button w3-block" style="font-size: 3vh"><img src="minecraft_heart.png" alt="Heart Icon" style="height: 1em"> APPLY FOR MODERATOR</button></a></p>
        </div>
      </div>
     </div>
