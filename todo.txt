@@ -16,13 +16,9 @@ Soon:
 
 	Decide on initial donor benefits
 
-	Set up borgbackup on storage box
-
-	get fartherviewdistance
-
 	Expand FAQ
 
-	Add in-game FAQ
+	Add in-game FAQ + update in-game rules
 
 	Voting plugin
 	
@@ -62,6 +58,8 @@ Pre launch:
 
 Post Launch:
 
+	automate backups with borgmatic and cronjobs
+	
 	Make checking someone elses balance case insensitive
 
 	Improve anti cheat: hitboxes, killaura, reach, velocity

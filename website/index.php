@@ -107,11 +107,12 @@
 		<p>Alternate: <strong>play.trueog.net</strong></p>
 		<p><strong>Host:</strong> <a href="https://www.hetzner.com/dedicated-rootserver/ax61-nvme">Hetzner AX61-NVME</a> in Falkenstein, Germany</p>
 		<p><strong>Hardware:</strong> Dedicated AMD Ryzen 9 3900x | 128GB RAM (SMP uses 24GB) | 1.92TB Dedicated NVMe SSD (RAID Cloned) | 1Gbps+ Unmetered Connection </p>
-		<p><strong>Software:</strong> <a href="https://ci.pufferfish.host/job/Pufferfish-Purpur/">Pufferfish-Purpur</a> 1.17.1 | <strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">TrueOG on GitHub</a></strong></p>
+		<p><strong>Software:</strong> <a href="https://ci.pufferfish.host/job/Pufferfish-Purpur/">Pufferfish-Purpur</a> 1.17.1</p>
+		<p><strong>Source Code: <a href="https://github.com/NotAlexNoyle/true-og">TrueOG on GitHub</a></strong></p>
 		<p><strong>Known Bugs:</strong></p>
-		<p><strong>1.8:</strong> no elytra, no boats, invisible end gateways.</p>
-		<p><strong>1.8-1.13:</strong>Banners glitchy.</p>
-		<p><strong>1.9-1.11.x:</strong> glide-only elytra.</p>
+		<p><strong>1.8:</strong> No elytra, no boats, invisible end gateways.</p>
+		<p><strong>1.8-1.13:</strong> Banners glitchy.</p>
+		<p><strong>1.9-1.11.x:</strong> Glide-only elytra.</p>
 		<p><strong>Discord:</strong></p>
 		<p>Bot commands aren't working in bot DMs.</p>
 		<p>Username mentions from Minecraft to Discord require using back-end IDs.</p>
@@ -153,8 +154,18 @@
           <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>Dvik#7958</strong></p>
         </div>
       </div>
+	</div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="https://crafatar.com/avatars/966052e3-5424-4934-a2c1-81250f2d1d55" alt="ItzNinjaYT" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>ItzNinjaYT</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>ItzNinja_#5374</strong></p>
+        </div>
+      </div>
     </div>
-        <div class="w3-col l3 m6 w3-margin-bottom">
+    <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
         <img src="https://crafatar.com/avatars/e0908757-b813-4a89-8c19-4f65612541b9" alt="Burbie" style="width:100%">
         <div class="w3-container">
@@ -163,14 +174,14 @@
           <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>ixAl_#8810</strong></p>
         </div>
       </div>
-    </div>
+	</div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="https://crafatar.com/avatars/938697f8-c771-439e-b237-b1ce9b51d339" alt="Tolga1978" style="width:100%">
+        <img src="https://crafatar.com/avatars/aec7ca7a-3ca9-4001-adfc-a81b596d8201" alt="OmeniusKamis1" style="width:100%">
         <div class="w3-container">
-          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>Tolga1978</strong><br>
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>OmeniusKamis1</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>TolgaSnake#5112</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>OmeniusKamis2#6439</strong></p>
         </div>
       </div>
     </div>
@@ -244,7 +255,8 @@
 <!-- Shop Section -->
 <div class="w3-container w3-center w3-grey" style="padding: 32px 32px" id="shop">
   <p style="font-size: 6vh"><strong>Buy Ranks</strong></p>
-  <p class="reduce-line-height-more" style="font-size: 3vh">Each donor rank requires the prior rank to be purchased first.</p>
+  <p class="reduce-line-height" style="font-size: 4vh">Each donor rank requires the prior rank to be purchased first.</p>
+  <p class="reduce-line-height" style="font-size: 3vh">Donor benefits are subject to change as the server evolves over time.</p>
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
