@@ -2,13 +2,17 @@
 
 Soon:
 
+	Implement 1v1 duels
+
+	Fix duels impacting kills and deaths
+
+	Finish retrofitting arena for duels
+
 	Make whitelist kick message changer plugin
 	
-	4 More server messages
+	2 More server messages
 
 	Add rules to website
-
-	Fix staff taking no lava damage in warzone and arena. test other fire/enviornmental damage.
 
 	Implement donor cosmetics
 
@@ -18,7 +22,7 @@ Soon:
 
 	Expand FAQ
 
-	Add in-game FAQ + update in-game rules
+	Add in-game FAQ
 
 	Voting plugin
 	
@@ -30,23 +34,29 @@ Soon:
 
 	Implement combat system with disconnect and zone monitoring + pearl delay
 
-	Put player info above heads (TagAPI - TAG/Stylizer update?)
+	Put player info above heads (TagAPI)
 
 	set up builder team management software
+
+	Change all formatting with &f to be &r unless white is demanded
 
 Pre launch:
 	
 	Improve anti xray
 
-	fix worldedit's automatic gravity (caused by use falg being disallowed)
+	Configure spigot+essentials locale
+
+	Re-enable USE flag and set individual region permissions
+
+	Finish warzone
+
+	Protect warzone observation deck
 	
-	expand warzone + protect warzone observation deck
+	Fix staff getting kicked into survival upon relog
 	
-	fix staff getting kicked into survival upon relog
+	Make sure all ranks have necessary worldguard region permissions
 	
-	make sure all ranks have necessary worldguard region permissions
-	
-	fix snow buckets breaking grass at spawn (build new pufferfish)
+	Fix snow buckets breaking grass at spawn (build new pufferfish)
 
 	Update WGamemode plugin for new worldguard/worldedit 7.0.5
 
@@ -58,7 +68,7 @@ Pre launch:
 
 Post Launch:
 
-	automate backups with borgmatic and cronjobs
+	Automate backups with borgmatic and cronjobs
 	
 	Make checking someone elses balance case insensitive
 
@@ -69,6 +79,8 @@ Post Launch:
 	Keep chunks loaded while villagers are being cured
 
 	Bring back netherite fire resistance
+
+	Eliminate netherite noknockback
 
 	Make death messages reflect correct rank
 	
@@ -84,17 +96,13 @@ Post Launch:
 	
 	Some way to get people unstuck on powdered snow and in holes /ghostfix?
 	
-	Fix remaining /lc holes
-
 	Toggleable death coordinates for og master and above
 
-	Alias /action or /tellraw to replicate old hivemc /say command
+	Alias /broadcast /action or /tellraw to replicate old hivemc /say command and server announcement command
 
-	Find laggiest chunks with clearlagg (-107 41 -204 for example)
-	
-	Change all formatting with &f to be &r unless white is demanded
-	
-	Configure spigot locale
+	Scan for and delete corrupt chunks
+
+	Find strategy to find laggiest chunks
 	
 	1.18 Update Trailer
 
@@ -102,7 +110,7 @@ Post Launch:
 	
 	Fix stairs, half slabs, fences, and more from being glitchy to walk on in 1.18
 	
-	Prevent boats from getting stuck in spawn region
+	Prevent boats from getting stuck in spawn region and limit boats per chunk
 
 	Fix boat clutching
 
@@ -112,10 +120,6 @@ Post Launch:
 
 	Fix mobs getting stuck in raid farm walls (probably purpur)
 	
-	Buff axe damage (test if this is still needed after iframe fix)
-	
-	Make /lc inventory persistent
-
 	Fix sheilds activating when using fence gates
 
 	Fix not being able to sell items for more than 64 diamonds
@@ -131,36 +135,32 @@ Post Launch:
 	Make chain armor craftable with chains
 	
 	Alias /petm, /clearinventory
+
+	Hide /clearinvent, /duel queue, others from tab list
 	
 	Redirect messages for /baltop, /ah, /f
 	
-	Fix /lagg clear scooping up death piles
-
 	Add recommended mods to website
-
-	Give mods permission to open market chests
 
 	Premium CDN? Multiple end-points? Distributed server with mineql?
 
-	Run /list and initiate replies from bot dms
+	Make /list and in-game DM replies work from bot dms
 
 	Bedrock support (after new no-click-delay combat system is rolled out to minecraft)
 
 	1.18 server update (update plugins, change overworld seed, then expand overworld and nether borders to 96k/12k)
 
-	pvp test server to fix invincibility frames
-
-	Fix typos in economy and lc plugins
+	Fix PVP invincibility frames, then test axe damage
 
 	Minecraft-to-discord account data link
 
 	Friend system with /ignore retained and personal discord dm link
 
-	Add mc-to-discord no-id tab-completed mentions and custom emojis
+	Add mc-to-discord no-id tab-completed mentions and id-free custom emojis
 
-	Arena kitpvp
+	Implement KitPvP
 
-	Spleef+Splegg
+	Implement Spleef+Splegg
 
 	Show multiple discord ranks in game
 
@@ -170,9 +170,9 @@ Post Launch:
 
 	Enhanced union descriptions
 
-	Automatic command monitoring/logging
+	Automatic flagging and clearing of commands monitored with CoreProtect
 
-	Server monitoring gui
+	Server monitoring web interface
 
 	Return rental shop diamonds based on how much time is left
 	
@@ -180,4 +180,4 @@ Post Launch:
 
 	More advanced punishments plugin
 
-	Allow builders to tp to each other at spawn
+	Allow builders to tp to each other at spawn ONLY
