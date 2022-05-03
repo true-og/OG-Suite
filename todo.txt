@@ -2,7 +2,7 @@
 
 Soon:
 
-	Implement 1v1 duels
+	Add duel betting
 
 	Fix duels impacting kills and deaths
 
