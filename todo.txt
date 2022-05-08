@@ -6,12 +6,8 @@ Soon:
 
 	Fix duels impacting kills and deaths
 
-	Finish retrofitting arena for duels
-
 	Make whitelist kick message changer plugin
 	
-	2 More server messages
-
 	Add rules to website
 
 	Implement donor cosmetics
@@ -48,7 +44,7 @@ Pre launch:
 
 	Re-enable USE flag and set individual region permissions
 
-	Finish warzone
+	Finish warzone and spawn
 
 	Protect warzone observation deck
 	
