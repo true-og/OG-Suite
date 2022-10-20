@@ -18,8 +18,8 @@ We encourage forks to maintain the "OG" meta that TrueOG strives for, but the co
 
 |Linux|macOS|Windows|FreeBSD Family|OpenBSD|NetBSD|SerenityOS|iOS (Jailbroken)|Android|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|amd64 :heavy_check_mark:|aarch64 :heavy_check_mark:|amd64 :heavy_check_mark:|all :heavy_check_mark:|all :heavy_check_mark:|all :heavy_check_mark:|all :heavy_check_mark:|armv7 :heavy_check_mark:|arm64 :heavy_check_mark:|
-|arm64 :heavy_check_mark:|aarch64 :heavy_check_mark:|
+|amd64 :heavy_check_mark:|amd64 :heavy_check_mark:|amd64 :heavy_check_mark:|all :heavy_check_mark:|all :heavy_check_mark:|all :heavy_check_mark:|all :heavy_check_mark:|armv7 :heavy_check_mark:|arm64 :heavy_check_mark:|
+|aarch64 :heavy_check_mark:|aarch64 :heavy_check_mark:|
 |armhf :heavy_check_mark:|
 |alpine :heavy_check_mark:|
 

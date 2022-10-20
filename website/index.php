@@ -90,7 +90,7 @@
 		<p><strong>Q: Where did <span class="lightgreen">True</span><span class="red">OG</span> come from?</strong></p>
 		<p><strong>A:</strong> <span class="lightgreen">True</span><span class="red">OG</span> is a community SMP based on the OG:SMP Season 1 map by players who disagreed with the map reset and the direction of the server away from the "OG" meta.</p>
 		<p><strong>Q: What version of Minecraft is the terrain generated in?</strong></p>
-		<p><strong>A:</strong> <span class="lightgreen">True</span><span class="red">OG</span> Terrain from spawn to 40k is 1.16.5. Terrain from 40k to 80k is 1.17.1. The world border will be expanded for each major update with new chunks.</p>
+		<p><strong>A:</strong> <span class="lightgreen">True</span><span class="red">OG</span> Terrain from spawn to 40k is 1.16.5. Terrain from 40k to 80k is 1.17.1. Terrain from 80k to 96k is 1.18.2. The world border will be expanded for each major update with new chunks.</p>
 		<p><strong>Q: Is a world download available?</strong></p>
 		<p><strong>A:</strong> The pre-launch world can be downloaded as a torrent <a href="magnet:?xt=urn:btih:402df9c1d86bebb5f4b0523038e713dc3d50b0be&dn=smp.tar.gz&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969">here</a> for personal use only. Our license to use it commercially is non-transferrable. The post-launch map will not be published during the lifetime of the server.</p>
 		<p><strong>Q: How do I navigate the spawn and community marketplace?</strong></p>
@@ -187,6 +187,16 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
+        <img src="https://crafatar.com/avatars/938697f8-c771-439e-b237-b1ce9b51d339" alt="Tolga Cereal" style="width:100%">
+        <div class="w3-container">
+          <p style="font-size: 5vh; color: gold" class="w3-center reduce-line-height-more"><strong>TolgaCereal</strong><br>
+          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: gold">&nbsp;Moderator&nbsp;</span></mark></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>TolgaCereal#5112</strong></p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
         <img src="https://crafatar.com/avatars/9950501e-140d-4f62-a883-06b989013d4d" alt="ElvisUHD" style="width:100%">
         <div class="w3-container">
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>ElvisUHD</strong><br>
@@ -197,11 +207,11 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="https://crafatar.com/avatars/9f8277da-b652-467a-8d06-0c5795e2e967" alt="OpenGL3" style="width:100%">
+        <img src="https://crafatar.com/avatars/8125cf24-29d4-42b1-b30b-9cf84a76865c" alt="Gosdev" style="width:100%">
         <div class="w3-container">
-          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>OpenGL3</strong><br>
+          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>Gosdev</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>abcdef#6780</strong></p>
+          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>gosdev#9729</strong></p>
         </div>
       </div>
     </div>

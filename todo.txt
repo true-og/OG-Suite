@@ -1,13 +1,35 @@
 -----TRUEOG TODO LIST----
 
-Soon:
+	prot4 sharp 5 and strength pots in debuff/nodebuff kits
+
+	Fix putting out fire in duels + warzone
+
+	Messages when things are soon to despawn
+
+	A:B test parties update vs simpleclans
+
+	Update PlaceholderAPI then try to use rank colors via placeholders in duels GUI
+
+	Add ability for players to block others from their shop using quickshop-hikari.blocked
+
+	Make entity cleanup 30 minutes, not 5
+
+	Work on bow and arrow transportation for 1.8 players
+
+	More duels arenas
+
+	Fix tolga's chat color and tester heart
+
+	Fix player ping in tab
 
 	Add duel betting
 
+	New duels arena region + backend
+
+	More ender pearls in duels kits
+
 	Fix duels impacting kills and deaths
 
-	Make whitelist kick message changer plugin
-	
 	Add rules to website
 
 	Implement donor cosmetics
@@ -26,8 +48,6 @@ Soon:
 
 	Finish setting up CraftingStore
 
-	Replace legacy plugins with modern plugins: Playtimes, NoClip
-
 	Implement combat system with disconnect and zone monitoring + pearl delay
 
 	Put player info above heads (TagAPI)
@@ -36,39 +56,39 @@ Soon:
 
 	Change all formatting with &f to be &r unless white is demanded
 
-Pre launch:
+	Automated branding in bootstrap
+
+	video trailer
+
+	bed trap fix
 	
+	1.18 pregen
+
+	pearl glitch fix
+
 	Improve anti xray
 
 	Configure spigot+essentials locale
 
 	Re-enable USE flag and set individual region permissions
 
-	Finish warzone and spawn
-
-	Protect warzone observation deck
-	
-	Fix staff getting kicked into survival upon relog
+	Finish and protect warzone observation deck
 	
 	Make sure all ranks have necessary worldguard region permissions
 	
-	Fix snow buckets breaking grass at spawn (build new pufferfish)
-
-	Update WGamemode plugin for new worldguard/worldedit 7.0.5
+	Update WGamemode plugin for new worldguard/worldedit
 
 	Reset everyones location to spawn and reset kills/deaths
 
-	Replace proprietary plugins with FOSS plugins: ClearLag, SaveDeathDrops, DiamondBank, NewbsCreative
+	Replace proprietary plugins with FOSS plugins: DiamondBank, Flare
 	
-	Redact seed, flare token, database credentials, and sentry dsn from config files, then publish everything to github
-
-Post Launch:
+	Redact seed, database credentials, discord details, and sentry dsn from config files before source release
 
 	Automate backups with borgmatic and cronjobs
 	
-	Make checking someone elses balance case insensitive
+	Make checking someone elses balance case insensitive [test on Diamond Bank Reloaded]
 
-	Improve anti cheat: hitboxes, killaura, reach, velocity
+	Improve anti cheat: hitboxes, killaura, reach, velocity, bhop
 
 	In-game survey plugin
 
@@ -78,7 +98,7 @@ Post Launch:
 
 	Eliminate netherite noknockback
 
-	Make death messages reflect correct rank
+	Make death messages reflect correct rank/colors
 	
 	Fix weird characters in bed dialog message when multiple players are online
 	
@@ -100,11 +120,7 @@ Post Launch:
 
 	Find strategy to find laggiest chunks
 	
-	1.18 Update Trailer
-
 	Add server and discord widgets to website
-	
-	Fix stairs, half slabs, fences, and more from being glitchy to walk on in 1.18
 	
 	Prevent boats from getting stuck in spawn region and limit boats per chunk
 
@@ -117,6 +133,10 @@ Post Launch:
 	Fix mobs getting stuck in raid farm walls (probably purpur)
 	
 	Fix sheilds activating when using fence gates
+
+	Fix 1.8 inventory drop glitch
+
+	Fix dropping items with q in 1.18+
 
 	Fix not being able to sell items for more than 64 diamonds
 	
@@ -132,9 +152,9 @@ Post Launch:
 	
 	Alias /petm, /clearinventory
 
-	Hide /clearinvent, /duel queue, others from tab list
+	Hide /clearinvent, /duel queue?, others from tab list
 	
-	Redirect messages for /baltop, /ah, /f
+	Redirect messages for /baltop, /ah, /f, /shop, /wild, /rtp
 	
 	Add recommended mods to website
 
@@ -144,11 +164,11 @@ Post Launch:
 
 	Bedrock support (after new no-click-delay combat system is rolled out to minecraft)
 
-	1.18 server update (update plugins, change overworld seed, then expand overworld and nether borders to 96k/12k)
-
-	Fix PVP invincibility frames, then test axe damage
+	Nerf axe damage
 
 	Minecraft-to-discord account data link
+
+	Matrix server integration
 
 	Friend system with /ignore retained and personal discord dm link
 
@@ -168,12 +188,12 @@ Post Launch:
 
 	Automatic flagging and clearing of commands monitored with CoreProtect
 
-	Server monitoring web interface
-
 	Return rental shop diamonds based on how much time is left
 	
-	Staff panel
+	Admin+Staff panel
 
 	More advanced punishments plugin
 
 	Allow builders to tp to each other at spawn ONLY
+
+	Restrict builder creative to spawn
