@@ -4,6 +4,8 @@
 
 	Fix putting out fire in duels + warzone
 
+	lava and water buckets in warzone + duels
+
 	Messages when things are soon to despawn
 
 	A:B test parties update vs simpleclans
@@ -16,15 +18,13 @@
 
 	Work on bow and arrow transportation for 1.8 players
 
-	More duels arenas
-
 	Fix tolga's chat color and tester heart
 
-	Fix player ping in tab
+	Duels queue signs with arena selection
 
 	Add duel betting
 
-	New duels arena region + backend
+	New duels arenas + backend
 
 	More ender pearls in duels kits
 
@@ -73,8 +73,6 @@
 	Re-enable USE flag and set individual region permissions
 
 	Finish and protect warzone observation deck
-	
-	Make sure all ranks have necessary worldguard region permissions
 	
 	Update WGamemode plugin for new worldguard/worldedit
 
@@ -134,15 +132,11 @@
 	
 	Fix sheilds activating when using fence gates
 
-	Fix 1.8 inventory drop glitch
-
 	Fix dropping items with q in 1.18+
 
 	Fix not being able to sell items for more than 64 diamonds
 	
 	Nether spawn
-	
-	Improve shield/sword rubber banding
 	
 	Make tridents usable in spawn areas
 	
@@ -158,7 +152,11 @@
 	
 	Add recommended mods to website
 
-	Premium CDN? Multiple end-points? Distributed server with mineql?
+	Premium CDN? Multiple end-points?
+
+	Multipaper support
+
+	Aether + More Biomed modded factions
 
 	Make /list and in-game DM replies work from bot dms
 
