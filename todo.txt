@@ -62,8 +62,6 @@
 
 	bed trap fix
 	
-	1.18 pregen
-
 	pearl glitch fix
 
 	Improve anti xray
@@ -72,8 +70,6 @@
 
 	Re-enable USE flag and set individual region permissions
 
-	Finish and protect warzone observation deck
-	
 	Update WGamemode plugin for new worldguard/worldedit
 
 	Reset everyones location to spawn and reset kills/deaths
@@ -94,7 +90,7 @@
 
 	Bring back netherite fire resistance
 
-	Eliminate netherite noknockback
+	Eliminate netherite noknockback in pvp
 
 	Make death messages reflect correct rank/colors
 	
@@ -184,14 +180,14 @@
 
 	Enhanced union descriptions
 
-	Automatic flagging and clearing of commands monitored with CoreProtect
+	Automatic flagging of commands monitored with CoreProtect
 
 	Return rental shop diamonds based on how much time is left
-	
+
+	Fix 1.8 inventory drop glitch
+
 	Admin+Staff panel
 
 	More advanced punishments plugin
-
-	Allow builders to tp to each other at spawn ONLY
 
 	Restrict builder creative to spawn
