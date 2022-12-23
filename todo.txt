@@ -68,13 +68,11 @@
 
 	Configure spigot+essentials locale
 
-	Re-enable USE flag and set individual region permissions
-
 	Update WGamemode plugin for new worldguard/worldedit
 
 	Reset everyones location to spawn and reset kills/deaths
 
-	Replace proprietary plugins with FOSS plugins: DiamondBank, Flare
+	Replace proprietary plugins with FOSS plugins: DiamondBank
 	
 	Redact seed, database credentials, discord details, and sentry dsn from config files before source release
 
@@ -92,7 +90,7 @@
 
 	Eliminate netherite noknockback in pvp
 
-	Make death messages reflect correct rank/colors
+	Make death messages reflect correct rank/colors RE-TEST
 	
 	Fix weird characters in bed dialog message when multiple players are online
 	
@@ -102,15 +100,13 @@
 
 	Write ping/bong command based on https://github.com/MrCote33/MicroPing
 	
-	Make echest inventories accessible at spawn
+	Make echest inventories accessible at spawn with command for donors
 	
-	Some way to get people unstuck on powdered snow and in holes /ghostfix?
+	Some way to get people unstuck on powdered snow and from inside of holes /ghostfix?
 	
 	Toggleable death coordinates for og master and above
 
 	Alias /broadcast /action or /tellraw to replicate old hivemc /say command and server announcement command
-
-	Scan for and delete corrupt chunks
 
 	Find strategy to find laggiest chunks
 	
@@ -136,8 +132,6 @@
 	
 	Make tridents usable in spawn areas
 	
-	Increase chat character limit for og master and above
-
 	Make chain armor craftable with chains
 	
 	Alias /petm, /clearinventory
@@ -148,7 +142,9 @@
 	
 	Add recommended mods to website
 
-	Premium CDN? Multiple end-points?
+	Cloudflare premium?
+
+	Switch domains to cloudflare for renewal savings.
 
 	Multipaper support
 
@@ -184,7 +180,7 @@
 
 	Return rental shop diamonds based on how much time is left
 
-	Fix 1.8 inventory drop glitch
+	Fix 1.8 inventory drop visual glitch
 
 	Admin+Staff panel
 
