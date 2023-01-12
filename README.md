@@ -4,6 +4,8 @@ TrueOG is a 100% free and open source Minecraft server made as a successor to an
 
 ![Icon](https://github.com/NotAlexNoyle/true-og/blob/main/logos/Logo-Alternate.png)
 
+This is pre-release software. Our todo list has evolved from a text file to a kanban board. The new one can be viewed [here](https://tree.taiga.io/project/notalexnoyle-true-og/).
+
 The TrueOG Server bootstrap makes it *incredibly* easy to spin up your own server based on TrueOG's source code. It's easier than setting up Spigot, and it gives you a complete, optimized base from which to build your Minecraft server off of. Instead of beginning your Minecraft server building journey with a blank plugins folder, you begin with a fully featured SMP and minigame server, built from source!
 
 We encourage forks to maintain the "OG" meta that TrueOG strives for, but the code is yours to do with as you wish. This is in part out of principle, and in part an act of rebellion against OG Network's selfish refusal to share their code for OG:SMP Season 1, forcing TrueOG to be built from scratch, resulting in a long development period.
@@ -12,7 +14,6 @@ We encourage forks to maintain the "OG" meta that TrueOG strives for, but the co
 
 - [Devuan](https://devuan.org/) + [OpenRC](https://wiki.gentoo.org/wiki/OpenRC/Users)
 - [AntiX](https://antixlinux.com/) + [OpenRC](https://wiki.gentoo.org/wiki/OpenRC/Users)
-- [Redcore Linux](https://redcorelinux.org/)
 
 **Platforms the TrueOG Bootstrap Supports:**
 
