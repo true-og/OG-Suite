@@ -1,7 +1,5 @@
 -----TRUEOG TODO LIST----
 
-	prot4 sharp 5 and strength pots in debuff/nodebuff kits
-
 	Fix putting out fire in duels + warzone
 
 	lava and water buckets in warzone + duels
@@ -25,8 +23,6 @@
 	Add duel betting
 
 	New duels arenas + backend
-
-	More ender pearls in duels kits
 
 	Fix duels impacting kills and deaths
 
