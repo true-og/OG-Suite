@@ -1,3 +1,6 @@
 [submodule "Purpur"]
 	path = Purpur
 	url = https://github.com/PurpurMC/Purpur/
+[submodule "OG-Plugin-Suite"]
+	path = OG-Plugin-Suite
+	url = https://github.com/NotAlexNoyle/OG-Plugin-Suite
