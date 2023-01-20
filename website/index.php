@@ -92,7 +92,8 @@
 		<p><strong>Q: What version of Minecraft is the terrain generated in?</strong></p>
 		<p><strong>A:</strong> <span class="lightgreen">True</span><span class="red">OG</span> Terrain from spawn to 40k is 1.16.5. Terrain from 40k to 80k is 1.17.1. Terrain from 80k to 96k is 1.18.2. The world border will be expanded for each major update with new chunks.</p>
 		<p><strong>Q: Is a world download available?</strong></p>
-		<p><strong>A:</strong> The pre-launch world can be downloaded as a torrent <a href="magnet:?xt=urn:btih:402df9c1d86bebb5f4b0523038e713dc3d50b0be&dn=smp.tar.gz&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969">here</a> for personal use only. Our license to use it commercially is non-transferrable. The post-launch map will not be published during the lifetime of the server.</p>
+		<p><strong>A:</strong> The pre-launch world can be downloaded as a torrent at this <a href="magnet:?xt=urn:btih:402df9c1d86bebb5f4b0523038e713dc3d50b0be&dn=smp.tar.gz&tr=http%3A%2F%2Ftracker2.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.sktorrent.net%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.wareztorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fbt.xxx-tracker.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.eddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.mg64.net%3A2710%2Fannounce&tr=udp%3A%2F%2Fwambo.club%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.dutchtracking.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftc.animereactor.ru%3A8082%2Fannounce&tr=udp%3A%2F%2Ftracker.justseed.it%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=https%3A%2F%2Fopen.kickasstracker.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=http%3A%2F%2F87.253.152.137%2Fannounce&tr=http%3A%2F%2F91.216.110.47%2Fannounce&tr=http%3A%2F%2F91.217.91.21%3A3218%2Fannounce&tr=http%3A%2F%2F91.218.230.81%3A6969%2Fannounce&tr=http%3A%2F%2F93.92.64.5%2Fannounce&tr=http%3A%2F%2Fatrack.pow7.com%2Fannounce&tr=http%3A%2F%2Fbt.henbt.com%3A2710%2Fannounce&tr=http%3A%2F%2Fbt.pusacg.org%3A8080%2Fannounce&tr=https%3A%2F%2Ftracker.bt-hash.com%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=https%3A%2F%2F182.176.139.129%3A6969%2Fannounce&tr=udp%3A%2F%2Fzephir.monocul.us%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.dutchtracking.com%3A80%2Fannounce&tr=https%3A%2F%2Fgrifon.info%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.kicks-ass.net%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.sktorrent.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.parrotsec.org%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.moxing.party%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.fastdownload.xyz%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=https%3A%2F%2Fgwp2-v19.rinet.ru%3A80%2Fannounce&tr=https%3A%2F%2Ftr.kxmp.cf%3A80%2Fannounce&tr=https%3A%2F%2Fexplodie.org%3A6969%2Fannounce
+">magnet link</a> or this <a href="smp.tar.torrent">torrent file</a> for personal use only. Our license to use the maps commercially is non-transferrable. The post-launch SMP maps will not be published during the lifetime of the server.</p>
 		<p><strong>Q: How do I navigate the spawn and community marketplace?</strong></p>
 		<p><strong>A:</strong> <a href="market-map.png">Market Map</a></p>
 		<p><strong>A:</strong> <a href="market-map-2.png">Combined Spawn/Market Map</a></p>
@@ -202,16 +203,6 @@
           <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>ElvisUHD</strong><br>
           <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: #7DF9FF">&nbsp;MVP</span>&nbsp;+&nbsp;<span style="color: hotpink;">Builder&nbsp;</span></mark></p>
           <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>Elvis#5891</strong></p>
-        </div>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-card">
-        <img src="https://crafatar.com/avatars/8125cf24-29d4-42b1-b30b-9cf84a76865c" alt="Gosdev" style="width:100%">
-        <div class="w3-container">
-          <p style="font-size: 5vh; color: hotpink" class="w3-center reduce-line-height-more"><strong>Gosdev</strong><br>
-          <p style="font-size: 4vh" class="w3-center reduce-line-height-more"><mark class="main-text"><span style="color: hotpink">&nbsp;Builder&nbsp;</span></mark></p>
-          <p style="font-size: 3vh" class="reduce-line-height w3-center discord-blue"><img src="discord-logo-creative-commons.png" alt="Discord Logo" style="max-width: 48px"/> <strong>gosdev#9729</strong></p>
         </div>
       </div>
     </div>
