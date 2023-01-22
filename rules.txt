@@ -1,5 +1,6 @@
 TrueOG Official Rules:
 
+
 =-=-=-=-=-Banable Offenses:-=-=-=-=-=
 
 
@@ -15,45 +16,44 @@ Don't fake evidence or evade punishments. Don't say things or post links in chat
 Rule 4 - No Doxxing:
 Do not reveal anyone’s private personal information without their consent.
 
-Rule 5 - No Character Automation:
-Do not use baritone or any other mod that allows you to automate your character. TrueOG is open to sentient players only, not bots. Except our bots.
+Rule 5 - No Character Automation or Boosting.
+Do not use baritone or any other mod that allows you to automate your character. TrueOG is open to sentient players only, not bots. Except our bots. Do not use alt accounts or friends to farm for gains in kills or other statistics.
 
-Rule 6 - No Stat Boosting:
-Do not use alt accounts or friends to farm for gains in kills or other statistics.
+Rule 6 - No Staff or Server Abuse:
+Don't attempt to DDOS the server or otherwise attack TrueOG's infrastructure. Don't maliciously insult or threaten staff. They are volunteers who are doing their best.
 
-Rule 7 - Use the Community Marketplace Responsibly:
+Rule 7  - Use the Community Marketplace Responsibly:
 Shops are mainly intended for selling, not storage. If the market is full, and your shop consists largely of non-sale blocks, you may be asked to change or remove your shop by a staff member. Here is an example of what not to do: https://true-og.net/bad-shop.png
 
 
 =-=-=-=-=-Mutable Offenses:-=-=-=-=-=
 
-Rule 8 - No Staff or Server Abuse:
-Don't attempt to DDOS the server or otherwise attack TrueOG's infrastructure. Don't maliciously insult or threaten staff. They are volunteers who are doing their best.
 
-Rule 9 - No Targeted Harassment or Bigotry:
+Rule 8 - No Targeted Harassment or Bigotry:
 TrueOG is not an anarchy server. While we are tolerant of swearing and trash talk, repeated and targeted hate speech against an individual is unacceptable and will result in a mute.
 
-Rule 10 - No IRL Death Threats:
+Rule 9 - No IRL Death Threats:
 Do not wish death or physical harm upon another individual. If you are threatening to kill somebody in game, phrase it unambiguously, for example “I am going to kill you in Minecraft”.
 
-Rule 11 - No Spamming:
+Rule 10 - No Spamming:
 Do not use excessive spam or caps in chat or you will be kicked. Repeated offenses will result in a mute. Bot spam is not allowed. You may only advertise your own pages or servers, and only once every 30 minutes.
 
-Rule 12 - No Explicit Sexual Topics
+Rule 11 - No Explicit Sexual Topics:
 Do not discuss sexual topics or post pornography on the server. There are kids here. NSFW memes should be kept to fun-kat︱😹, not posted in game.
 
-Rule 13 - No Phishing or Scamming
+Rule 12 - No Phishing or Scamming:
 Don’t attempt to trick other members into revealing credentials. Posting malicious links will result in a permanent mute.
+
 
 =-=-=-=-=-Discord Rules:-=-=-=-=-=
 
 
-Rule 14 - Keep Voice Chat Legible
+Rule 13 - Keep Voice Chat Legible:
 Do not use extreme voice changers, loud noises, or music to intentionally annoy other players.
 
 
-Rule 15 - Follow Discord's TOS
-We require all members to follow Discord's Terms of Service (TOS), which you can read here: https://discord.com/terms
+Rule 14 - Follow Discord's Terms of Service:
+We require all members to follow Discord's Terms of Service (TOS), which you can read here: https://discord.com/terms 
 
 
 =-=-=-=-=-Allowed Mods/Clients:-=-=-=-=-=
