@@ -4,3 +4,6 @@
 [submodule "OG-Plugin-Suite"]
 	path = OG-Plugin-Suite
 	url = https://github.com/NotAlexNoyle/OG-Plugin-Suite
+[submodule "website/shooting-stars"]
+	path = website/shooting-stars
+	url = https://github.com/nathaniel123x3rd/shooting-stars

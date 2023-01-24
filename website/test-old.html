@@ -1,22 +1,14 @@
-<!-- Define file as HTML for browser. -->
 <!DOCTYPE html>
-<!-- Set Language to English. -->
 <html lang="en">
 
-  <!-- Declare header for metadata. -->
-  <head>
-
-	<!-- Set website character set and dimensions so that it displays correctly. -->
-	<meta charset="UTF-8">
+<!-- Declare header. -->
+<head>
 
 	<!-- Declare title that will display in tabs.  -->
 	<title>TrueOG SMP</title>
 
-    <!-- Make page recognizable by a wide range of browsers. -->
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	
 	<!-- Link to favicons for thumbnails in browsers. -->
-	<!-- Generic: -->
+	<!-- Generic. -->
 	<link rel="icon" type="image/x-icon" href="assets/favicons/favicon.ico">
 	<link rel="icon" href="assets/favicons/favicon-32.png" sizes="32x32">
 	<link rel="icon" href="assets/favicons/favicon-57.png" sizes="57x57">
@@ -25,26 +17,24 @@
 	<link rel="icon" href="assets/favicons/favicon-128.png" sizes="128x128">
 	<link rel="icon" href="assets/favicons/favicon-192.png" sizes="192x192">
 	<link rel="icon" href="assets/favicons/favicon-228.png" sizes="228x228">
-	<!-- Android: -->
+	<!-- Android. -->
 	<link rel="shortcut icon" sizes="196x196" href="assets/favicons/favicon-196.png">
-	<!-- iOS: -->
+	<!-- iOS. -->
 	<link rel="apple-touch-icon" href="assets/favicons/favicon-120.png" sizes="120x120">
 	<link rel="apple-touch-icon" href="assets/favicons/favicon-152.png" sizes="152x152">
 	<link rel="apple-touch-icon" href="assets/favicons/favicon-180.png" sizes="180x180">
-	<!-- Windows 8 IE 10: -->
+	<!-- Windows 8 IE 10. -->
 	<meta name="msapplication-TileColor" content="#FFFFFF">
 	<meta name="msapplication-TileImage" content="assets/favicons/favicon-144.png">
-	<!-- Windows 8.1 + IE11 and above: -->
+	<!-- Windows 8.1 + IE11 and above. -->
 	<meta name="msapplication-config" content="assets/favicons/browserconfig.xml"/>
-	
-    <!-- Responsive design scaling adaptation. -->
+
+	<!-- Set website character set and dimensions so that it displays correctly. -->
+	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Import CSS Framework Bluma. -->
-    <link rel="stylesheet" href="https://unpkg.com/bulma@0.9.0/css/bulma.min.css"/>
-
-    <!-- Import custom Stylesheet and then keep the rendering engine awake using PHP trick -->
-    <link rel="stylesheet" href="stylesheet.css?v=<?php echo time(); ?>">
+	<!-- Load main CSS while ensuring it gets refreshed alongside the HTML upon page reload. -->
+	<link rel="stylesheet" href="stylesheet.css?v=<?php echo time(); ?>">
 	
 	<!-- Load Font Awesome CSS for glyph support. -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -58,44 +48,6 @@
 <!-- Declare Body -->
 <body style="font-family: minecraft; height: 100%; line-height: 1.6">
 
-	<!-- Declare Navbar (sit on top). -->
-    <nav class="navbar" style="background-color: black; opacity: 65%">
-     <div class="container">
-        <a class="navbar-item" href="#">
-          <img src="logos/Logo-Alternate-Transparent.png" alt="Logo">
-        </a>
-		<span class="navbar-burger burger" data-target="navbarMenu">
-          <span></span>
-          <span></span>
-          <span></span>
-        </span>
-        <div id="navbarMenu" class="navbar-menu">
-          <div class="navbar-end">
-            <a class="navbar-item is-active">
-              Home
-            </a>
-            <a class="navbar-item">
-              Examples
-            </a>
-            <a class="navbar-item">
-              Features
-            </a>
-            <a class="navbar-item">
-              Team
-            </a>
-            <a class="navbar-item">
-              Archives
-            </a>
-            <a class="navbar-item">
-              Help
-            </a>
-          </div>
-        </div>
-      </div>
-    </nav>
-    <!-- END NAV -->
-
-<!-- Declare animated shooting stars from CSS as objects -->
 <section>
     <span class="star"></span>
     <span class="star"></span>
@@ -109,18 +61,52 @@
     <span class="star"></span>
 </section>
 
-<!-- Header with full-height image -->
-<div class="w3-container" style="padding: 32px 32px; height: 100%">
-  <span class="background-wrapper"></span>
-  <div class="w3-center" style="margin-top:64px">
- 	  <br><br>
-    <mark class="main-text"> &nbsp;<span class="bukkit-green"> The Open Source,</span>&nbsp;<br>&nbsp;<span class="bukkit-red"> Community-First,&nbsp;</span><br><span class="saddle-brown">&nbsp; OG Minecraft Experience! </span>&nbsp;
-      <br><br><br>
-	  <p><a class="main-text" style="font-size: 2vw; text-decoration: none" href="https://discord.gg/ma9pMYpBU6" class="w3-button">&nbsp; <span class="bukkit-blue"><strong>Join Server</strong></span> &nbsp;</a>
-    </mark>
-    <br>
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card" id="nav" style="opacity: 75%">
+    <!-- Left-sided Navbar logo -->
+    <span class="w3-left">
+          <a href="https://true-og.net/" class="w3-button" id="left-logo"><img src="Logo-Alternate.png" alt="TrueOG Site Logo"></a>
+    </span>
+    <!-- Right-sided Navbar links -->
+    <span class="w3-right w3-hide-small">
+      <a href="#features" class="w3-bar-item w3-button"><i class="fa fa-star bukkit-gold"></i> <strong>Features</strong></a>
+      <a href="#faq" class="w3-bar-item w3-button"><i class="fa fa-question-circle bukkit-darkgreen"></i> <strong>FAQ</strong></a>
+      <a href="#staff" class="w3-bar-item w3-button"><i class="fa fa-id-badge bukkit-darkblue"></i> <strong>Staff</strong></a>
+      <a href="#apply" class="w3-bar-item w3-button"><i class="fa fa-level-up bukkit-gold"></i> <strong>Apply</strong></a>
+      <a href="#shop" class="w3-bar-item w3-button"><i class="fa fa-usd bukkit-darkgreen"></i> <strong>Shop</strong></a>
+	</span>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
   </div>
 </div>
+
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display: none; font-size: 4vh" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close x</a>
+  <a href="#features" onclick="w3_close()" class="w3-bar-item w3-button">Features</a>
+  <a href="#faq" onclick="w3_close()" class="w3-bar-item w3-button">FAQ</a>
+  <a href="#staff" onclick="w3_close()" class="w3-bar-item w3-button">Staff</a>
+  <a href="#apply" onclick="w3_close()" class="w3-bar-item w3-button">Apply</a>
+  <a href="#shop" onclick="w3_close()" class="w3-bar-item w3-button">Shop</a>
+</nav>
+
+<!-- Page header with Stars Animation written in pure CSS -->
+<header class="w3-container w3-center" style="position: relative">
+  <div class="background-wrapper"></div>
+  <div style="font-size: 4.5vw">
+    <mark class="main-text"><br><br>&nbsp;Welcome to the<span class="bukkit-darkgreen">&nbsp;True</span><span class="bukkit-darkred">OG</span> SMP!&nbsp;<br>&nbsp;Unique, yet familiar. No resets<span class="bukkit-darkred">&nbsp;ever</span>!&nbsp;</mark>
+
+    <p class="w3-text-white w3-jumbo" style="padding:36px 48px">
+      <a style="text-decoration:none; font-size: 3.5vw; background-color: #738ADB" href="https://discord.gg/ma9pMYpBU6" class="w3-button w3-opacity w3-hover-opacity-off">&nbsp;JOIN DISCORD&nbsp;</a><br>
+      <a href="https://www.facebook.com/True-OG-108371428331070"><i class="fa fa-facebook-official w3-hover-opacity bukkit-darkblue"></i></a>
+      <a href="https://twitter.com/TrueOGSMP"><i class="fa fa-twitter w3-hover-opacity bukkit-blue"></i></a>
+      <a href="https://reddit.com/r/trueog"><i class="fa fa-reddit w3-hover-opacity bukkit-gold"></i></a>
+    </p>
+  </div>
+</header>
 
 <!-- Features Section -->
 <div class="w3-container" style="padding: 32px 32px" id="features">
@@ -189,7 +175,7 @@
       <div class="toggle">
         <!-- Text reveal toggle -->
         <input type="checkbox" value="selected" id="rule-1" class="toggle-input">
-        <label for="rule-1" class="toggle-label bukkit-red-background">Rule 1 - No Inappropriate Usernames</label>
+        <label for="rule-1" class="toggle-label background-bukkit-red">Rule 1 - No Inappropriate Usernames</label>
         <!-- Content to toggle -->
         <div role="toggle" class="toggle-content reduce-line-height">
           Do not join <span class="bukkit-darkgreen">True</span><span class="red">OG</span> with any username that contains words or phrases which could result in a mute if typed in chat. Inappropriate usernames will be permanently banned. Once you change the username back to something appropriate, you may appeal the ban.
@@ -198,7 +184,7 @@
       <div class="toggle">
         <!-- Text reveal toggle -->
         <input type="checkbox" value="selected" id="rule-2" class="toggle-input">
-        <label for="rule-2" class="toggle-label bukkit-red-background">Rule 2 - No Exploiting Bugs</label>
+        <label for="rule-2" class="toggle-label background-bukkit-red">Rule 2 - No Exploiting Bugs</label>
         <!-- Content to toggle -->
         <div role="toggle" class="toggle-content reduce-line-height">
           Do not intentionally abuse a bug or glitch to gain an advantage over other players. This includes duping and abuse of staff privileges. You may use the previously discovered season 1 seed to find resources close to spawn, but no hunting of the new seed(s) is permitted.
@@ -504,19 +490,29 @@
 	<a href="https://twitter.com/TrueOGSMP"><i class="fa fa-twitter w3-hover-opacity"></i></a>
 	<a href="https://reddit.com/r/trueog"><i class="fa fa-reddit w3-hover-opacity"></i></a>
   </div>
- 
   <p>Powered by <a href="https://www.w3schools.com/w3css/">w3.css</a></p>
   <a href="https://www.spigotmc.org/resources/minecraft-one-page-template.59734/"><p>Forked from aviel900</p></a>
   <a href="https://github.com/NotAlexNoyle/true-og/tree/main/website"><p>Source Code</p></a>
+</footer>
 
-  <div class="container">
-    <div class="content has-text-centered">
-      <p> 
-        Forked from <strong>Bulma</strong> by <a href="http://jgthms.com">Jeremy Thomas</a>.
-        The source code is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. <br>
-      </p>
-    </div>
-  </div>
-  </footer>
+<script>
 
+// Toggle between showing and hiding the sidebar when clicking the menu icon
+var mySidebar = document.getElementById("mySidebar");
+
+function w3_open() {
+    if (mySidebar.style.display === 'block') {
+        mySidebar.style.display = 'none';
+    } else {
+        mySidebar.style.display = 'block';
+    }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+    mySidebar.style.display = "none";
+}
+</script>
+
+</body>
 </html>
