@@ -1,6 +1,7 @@
 <!-- Define file as HTML for browser. -->
 <!DOCTYPE html>
-<!-- Set Language to English. -->
+
+<!-- Declare native language. -->
 <html lang="en">
 
   <!-- Declare header for metadata. -->
