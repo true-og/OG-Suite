@@ -7,3 +7,6 @@
 [submodule "OG-Suite"]
 	path = OG-Suite
 	url = https://github.com/true-og/OG-Suite
+[submodule "third-party-suite"]
+	path = third-party-suite
+	url = https://github.com/true-og/third-party-suite
