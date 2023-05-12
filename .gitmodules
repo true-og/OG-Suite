@@ -1,9 +1,6 @@
 [submodule "Purpur"]
 	path = Purpur
 	url = https://github.com/PurpurMC/Purpur/
-[submodule "website/shooting-stars"]
-	path = website/shooting-stars
-	url = https://github.com/nathaniel123x3rd/shooting-stars
 [submodule "OG-Suite"]
 	path = OG-Suite
 	url = https://github.com/true-og/OG-Suite
