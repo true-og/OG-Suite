@@ -7,3 +7,6 @@
 [submodule "third-party-suite"]
 	path = third-party-suite
 	url = https://github.com/true-og/third-party-suite
+[submodule "website"]
+	path = website
+	url = git@github.com:true-og/website
