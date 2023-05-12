@@ -1,2 +1,0 @@
-# Make PHP+HTML files show up on GitHub as PHP, not Hack.
-*.php linguist-language=PHP
