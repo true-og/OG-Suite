@@ -4,7 +4,7 @@
 
 TrueOG is a 100% free and open source Minecraft server made as a spiritual successor to and expansion of OG:SMP Season 1. Inspired by the golden age of 2011-2013 "OG" Minecraft SMPs, and Hive Java. TrueOG is committed to maintaining an OG Minecraft experience for our players, while still being open to positive changes. The SMP continues to use the OG:SMP Season 1 map, and it will never be reset.
 
-This is pre-release software. Our todo list has evolved from a text file to a Kanban board. The new one can be viewed [here](https://tree.taiga.io/project/notalexnoyle-true-og/).
+This is pre-release software. Our todo list has evolved from a text file to a Kanban board. The new one can be viewed [here](https://true-og.net/todo-list).
 
 The TrueOG Server bootstrap makes it *incredibly* easy to spin up your own server based on TrueOG's source code. Instead of beginning your Minecraft server building journey with a blank plugins folder, you begin with a fully featured SMP and minigame server, built from source!
 
