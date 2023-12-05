@@ -1,6 +1,3 @@
-[submodule "Purpur"]
-	path = Purpur
-	url = https://github.com/PurpurMC/Purpur.git
 [submodule "OG-Suite"]
 	path = OG-Suite
 	url = https://github.com/true-og/OG-Suite.git
@@ -10,3 +7,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/true-og/website.git
+[submodule "Purpur"]
+	path = Purpur
+	url = https://github.com/NotAlexNoyle/Purpur
