@@ -2,20 +2,22 @@
 
 ![Icon](https://github.com/true-og/website/blob/main/assets/images/logos/Logo-Alternate-Transparent.png)
 
-TrueOG is a 100% free and open source Minecraft server made as a spiritual successor to and expansion of OG:SMP Season 1. Inspired by the golden age of 2011-2013 "OG" Minecraft SMPs, and Hive Java. TrueOG is committed to maintaining an OG Minecraft experience for our players, while still being open to positive changes. The SMP continues to use the OG:SMP Season 1 map, and it will never be reset.
+*ad astra per aspera*
 
-This is pre-release software. Our todo list has evolved from a text file to a Kanban board. The new one can be viewed [here](https://true-og.net/todo-list).
+TrueOG Network is a 100% free and open source community-oriented Minecraft server. Inspired by the past, but not stuck in it, we bring the "OG" meta to the modern minecraft ecosystem via an expansive suite of [custom plugins](https://github.com/true-og/OG-Suite). The worlds of TrueOG SMP, which are a continuation of the worlds from OG SMP Season 1, will **never** be reset.
 
-The TrueOG Server bootstrap makes it *incredibly* easy to spin up your own server based on TrueOG's source code. Instead of beginning your Minecraft server building journey with a blank plugins folder, you begin with a fully featured SMP and minigame server, built from source!
+TrueOG is pre-release software. Our todo list can be seen [here](https://true-og.net/todo-list).
 
-We encourage forks to maintain the "OG" meta that TrueOG strives for, but the code is yours to do with as you wish. This is an act of principle, and in part an act of rebellion against OG Network's selfish refusal to share their code for OG:SMP Season 1, forcing TrueOG to be built from scratch, resulting in a long development period.
+The TrueOG Server bootstrap makes it *incredibly* easy to spin up your own server based on TrueOG's source code. Instead of beginning your Minecraft server journey with a blank plugins folder, you begin with a fully featured SMP and minigame server, which can be automatically built from source on a wide variety of operating systems.
+
+Our admin team is structured as a unionized, democratic worker cooperative. We release everything possible into the public domain. Our dedication to these principles is re-enforced in rebellion against OG Network's selfish refusal to share their code for OG:SMP Season 1, forcing TrueOG to be built from scratch, resulting in a long development period. We oppose their financial exploitation of children with P2W gambling elements. Such nonsense has no place on our server. **Players > Profit.**
 
 **TrueOG Recommends the following Operating Systems for server hosting:**
 
-- [Devuan](https://devuan.org/) + [OpenRC](https://wiki.gentoo.org/wiki/OpenRC/Users)
-- [AntiX](https://antixlinux.com/) + [OpenRC](https://wiki.gentoo.org/wiki/OpenRC/Users)
+- [Devuan Linux](https://devuan.org/) + [runit](https://unixcop.com/using-runit-on-devuan/)
+- [Void Linux](https://voidlinux.org/)
 
-**Platforms the TrueOG Bootstrap Supports:**
+**Platforms the TrueOG Bootstrap can run on:**
 
 |Linux|macOS|Windows|FreeBSD Family|OpenBSD|NetBSD|SerenityOS|iOS (Jailbroken)|Android|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -24,6 +26,4 @@ We encourage forks to maintain the "OG" meta that TrueOG strives for, but the co
 |armhf :heavy_check_mark:|
 |alpine :heavy_check_mark:|
 
-The TrueOG Website was forked from aviel900 on [SpigotMC](https://www.spigotmc.org/resources/minecraft-one-page-template.59734/).
-
-TrueOG is public domain software (excluding contributing projects where their terms apply). All contributors must sign the contributor license agreement [CLA.txt](https://github.com/NotAlexNoyle/true-og/blob/main/CLA.txt).
+TrueOG is public domain software (excluding downstream projects, where their terms apply). All technical contributors releasing code into the public domain must sign the contributor license agreement [CLA.txt](https://github.com/NotAlexNoyle/true-og/blob/main/CLA.txt).
