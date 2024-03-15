@@ -26,4 +26,6 @@ Our admin team is structured as a unionized, democratic worker cooperative. We r
 |armhf :heavy_check_mark:|
 |alpine :heavy_check_mark:|
 
+Follow TrueOG on <a rel="me" href="https://mastodon.gamedev.place/@trueog">Mastodon</a>.
+
 TrueOG is public domain software (excluding downstream projects, where their terms apply). All technical contributors releasing code into the public domain must sign the contributor license agreement [CLA.txt](https://github.com/NotAlexNoyle/true-og/blob/main/CLA.txt).
