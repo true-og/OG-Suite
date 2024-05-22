@@ -26,7 +26,7 @@ Shops are mainly intended for selling, not storage. If the market is full, and y
 =-=-=-=-=-Mutable Offenses:-=-=-=-=-=
 
 Rule 8 - No Targeted Harassment or Bigotry:
-TrueOG is not an anarchy server. While we are tolerant of swearing and trash talk, repeated and targeted hate speech against an individual is unacceptable and will result in a mute.
+TrueOG is not an anarchy server. While we are tolerant of swearing and trash talk, absolutely no harassment, witch hunting, sexism, ableism, racism or hate speech targeted at individuals will be tolerated.
 
 Rule 9 - No IRL Death Threats:
 Do not wish death or physical harm upon another individual. If you are threatening to kill somebody in game, phrase it unambiguously, for example “I am going to kill you in Minecraft”.
