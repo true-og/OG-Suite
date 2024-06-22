@@ -1,0 +1,39 @@
+[submodule "BuffRates-OG"]
+	path = BuffRates-OG
+	url = https://github.com/true-og/BuffRates-OG
+[submodule "Chat-OG"]
+	path = Chat-OG
+	url = https://github.com/true-og/Chat-OG
+[submodule "FlyingBow-OG"]
+	path = FlyingBow-OG
+	url = https://github.com/true-og/FlyingBow-OG
+[submodule "GxUI-OG"]
+	path = GxUI-OG
+	url = https://github.com/true-og/GxUI-OG
+[submodule "HorseTp-OG"]
+	path = HorseTp-OG
+	url = https://github.com/true-og/HorseTp-OG
+[submodule "LaunchPads-OG"]
+	path = LaunchPads-OG
+	url = https://github.com/true-og/LaunchPads-OG
+[submodule "NoClip-OG"]
+	path = NoClip-OG
+	url = https://github.com/true-og/NoClip-OG
+[submodule "RandomDrops-OG"]
+	path = RandomDrops-OG
+	url = https://github.com/true-og/RandomDrops-OG
+[submodule "RewindFix-OG"]
+	path = RewindFix-OG
+	url = https://github.com/true-og/RewindFix-OG
+[submodule "ShulkerStacking-OG"]
+	path = ShulkerStacking-OG
+	url = https://github.com/true-og/ShulkerStacking-OG
+[submodule "Staff-OG"]
+	path = Staff-OG
+	url = https://github.com/true-og/Staff-OG
+[submodule "TheHerobrine-OG"]
+	path = TheHerobrine-OG
+	url = https://github.com/true-og/TheHerobrine-OG
+[submodule "Utilities-OG"]
+	path = Utilities-OG
+	url = https://github.com/true-og/Utilities-OG
