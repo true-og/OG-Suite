@@ -37,3 +37,9 @@
 [submodule "Utilities-OG"]
 	path = Utilities-OG
 	url = https://github.com/true-og/Utilities-OG
+[submodule "Template-OG"]
+	path = Template-OG
+	url = https://github.com/true-og/Template-OG
+[submodule "KotlinTemplate-OG"]
+	path = KotlinTemplate-OG
+	url = https://github.com/true-og/KotlinTemplate-OG
