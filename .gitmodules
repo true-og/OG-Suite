@@ -46,3 +46,6 @@
 [submodule "NoAdvancementsInCreative-OG"]
 	path = NoAdvancementsInCreative-OG
 	url = https://github.com/true-og/NoAdvancementsInCreative-OG
+[submodule "HolyGrail-OG"]
+	path = HolyGrail-OG
+	url = https://github.com/true-og/HolyGrail-OG
