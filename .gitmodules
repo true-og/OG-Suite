@@ -49,3 +49,6 @@
 [submodule "HolyGrail-OG"]
 	path = HolyGrail-OG
 	url = https://github.com/true-og/HolyGrail-OG
+[submodule "MissingCommands-OG"]
+	path = MissingCommands-OG
+	url = https://github.com/true-og/MissingCommands-OG
