@@ -52,3 +52,6 @@
 [submodule "MissingCommands-OG"]
 	path = MissingCommands-OG
 	url = https://github.com/true-og/MissingCommands-OG
+[submodule "DuelEnhancer-OG"]
+	path = DuelEnhancer-OG
+	url = https://github.com/true-og/DuelEnhancer-OG
