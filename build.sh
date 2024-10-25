@@ -13,6 +13,10 @@ trap 'echo -e "\n\nBuild process interrupted."; halted=true' SIGINT
 # Get the name of the current directory
 current_dir=$(basename "$PWD")
 
+# Create plugins folder if it doesn't exist and clear its contents
+mkdir -p plugins
+rm -f plugins/*
+
 # Count total directories to set up the progress bar
 total_dirs=$(find . -maxdepth 1 -type d ! -name '.*' | wc -l)
 completed=0
@@ -61,6 +65,11 @@ for dir in "${sorted_dirs[@]}"; do
         # Check the exit code of the build command
         if [[ $? -eq 0 ]]; then
             build_results["$project_name"]="Pass"
+
+            # Copy JAR files to the plugins folder, excluding any with "part" in the filename
+            if [[ -d "$dir/build/libs" ]]; then
+                find "$dir/build/libs" -name "*.jar" ! -name "*part*" -exec cp {} plugins/ \;
+            fi
         else
             build_results["$project_name"]="Fail"
         fi
@@ -94,14 +103,18 @@ for project in "${sorted_pass_list[@]}"; do
     echo "$project"
 done
 
-echo -e "\nFailed builds:"
-IFS=$'\n' sorted_fail_list=($(sort <<<"${fail_list[*]}"))
-unset IFS
-for project in "${sorted_fail_list[@]}"; do
-    echo "$project"
-done
+# Display "Failed builds" section only if there are any failures
+if [[ ${#fail_list[@]} -gt 0 ]]; then
+    echo -e "\nFailed builds:"
+    IFS=$'\n' sorted_fail_list=($(sort <<<"${fail_list[*]}"))
+    unset IFS
+    for project in "${sorted_fail_list[@]}"; do
+        echo "$project"
+    done
+fi
 
 # Message if script was interrupted
 if $halted; then
     echo -e "\nBuild process was halted by the user."
 fi
+
