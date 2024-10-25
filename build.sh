@@ -73,9 +73,6 @@ for dir in "${sorted_dirs[@]}"; do
     progress_bar "$project_name"
 done
 
-# New line after progress bar
-echo -e "\n\nBuild Summary:"
-
 # Separate and sort Pass and Fail lists
 pass_list=()
 fail_list=()
@@ -89,14 +86,15 @@ for project in "${!build_results[@]}"; do
 done
 
 # Sort and display the results
-echo -e "\nPassed Projects:"
+echo
+echo -e "\nPlugins built successfully:"
 IFS=$'\n' sorted_pass_list=($(sort <<<"${pass_list[*]}"))
 unset IFS
 for project in "${sorted_pass_list[@]}"; do
     echo "$project"
 done
 
-echo -e "\nFailed Projects:"
+echo -e "\nFailed builds:"
 IFS=$'\n' sorted_fail_list=($(sort <<<"${fail_list[*]}"))
 unset IFS
 for project in "${sorted_fail_list[@]}"; do
@@ -107,4 +105,3 @@ done
 if $halted; then
     echo -e "\nBuild process was halted by the user."
 fi
-
