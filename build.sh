@@ -1,5 +1,6 @@
 # This is free and unencumbered software released into the public domain.
 # Author: NotAlexNoyle (admin@true-og.net)
+
 #!/bin/bash
 
 # Array to store results
@@ -31,8 +32,13 @@ progress_bar() {
     printf "\r%s Building: %s [%-50s] %d%%" "$current_dir" "$formatted_project_name" "$bar" "$progress"
 }
 
-# Loop through each subdirectory
-for dir in */; do
+# Get a sorted list of directories to ensure alphabetical order
+dirs=(*/)
+IFS=$'\n' sorted_dirs=($(sort <<<"${dirs[*]}"))
+unset IFS
+
+# Loop through each sorted subdirectory
+for dir in "${sorted_dirs[@]}"; do
     # Skip hidden folders
     [[ "$dir" == .* ]] && continue
 
@@ -69,8 +75,32 @@ done
 
 # New line after progress bar
 echo -e "\n\nBuild Summary:"
+
+# Separate and sort Pass and Fail lists
+pass_list=()
+fail_list=()
+
 for project in "${!build_results[@]}"; do
-    echo "$project: ${build_results[$project]}"
+    if [[ "${build_results[$project]}" == "Pass" ]]; then
+        pass_list+=("$project")
+    elif [[ "${build_results[$project]}" == "Fail" ]]; then
+        fail_list+=("$project")
+    fi
+done
+
+# Sort and display the results
+echo -e "\nPassed Projects:"
+IFS=$'\n' sorted_pass_list=($(sort <<<"${pass_list[*]}"))
+unset IFS
+for project in "${sorted_pass_list[@]}"; do
+    echo "$project"
+done
+
+echo -e "\nFailed Projects:"
+IFS=$'\n' sorted_fail_list=($(sort <<<"${fail_list[*]}"))
+unset IFS
+for project in "${sorted_fail_list[@]}"; do
+    echo "$project"
 done
 
 # Message if script was interrupted
