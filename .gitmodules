@@ -1,9 +1,6 @@
 [submodule "BuffRates-OG"]
 	path = BuffRates-OG
 	url = https://github.com/true-og/BuffRates-OG
-[submodule "Chat-OG"]
-	path = Chat-OG
-	url = https://github.com/true-og/Chat-OG
 [submodule "FlyingBow-OG"]
 	path = FlyingBow-OG
 	url = https://github.com/true-og/FlyingBow-OG
@@ -55,3 +52,6 @@
 [submodule "DuelEnhancer-OG"]
 	path = DuelEnhancer-OG
 	url = https://github.com/true-og/DuelEnhancer-OG
+[submodule "Chat-OG"]
+	path = Chat-OG
+	url = https://github.com/NotAlexNoyle/Chat-OG/
