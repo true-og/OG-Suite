@@ -52,6 +52,3 @@
 [submodule "DuelEnhancer-OG"]
 	path = DuelEnhancer-OG
 	url = https://github.com/true-og/DuelEnhancer-OG
-[submodule "Chat-OG"]
-	path = Chat-OG
-	url = https://github.com/NotAlexNoyle/Chat-OG/
