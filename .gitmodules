@@ -55,3 +55,6 @@
 [submodule "Chat-OG"]
 	path = Chat-OG
 	url = https://github.com/true-og/Chat-OG
+[submodule "Quests-OG"]
+	path = Quests-OG
+	url = https://github.com/true-og/Quests-OG

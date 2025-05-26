@@ -4,6 +4,6 @@
 
 *ad astra per aspera*
 
-Public domain plugins crafted by TrueOG Network which conform to our highest standards. 
+The OG Suite are in-house plugins crafted by TrueOG Network which conform to our highest standards. 
 
-OG-Suite is public domain software. All technical contributors and developers must sign the contributor license agreement [CLA.txt](https://github.com/true-og/OG-Suite/blob/main/CLA.txt).
+OG Suite is public domain software. Contributions are not accepted from citizens of Germany, Australia, or any other country that does not recognize the public domain.
