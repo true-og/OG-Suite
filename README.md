@@ -22,9 +22,17 @@ OG Suite is public domain software. Contributions are not accepted from citizens
 
 ```plugins { id("com.gradleup.shadow") version "8.3.6" }```
 
-**Paperweight 2.0.0-beta.17:**
+**[Paperweight API](https://docs.papermc.io/paper/dev/userdev/) 2.0.0-beta.17:**
 
 ```plugins { id("io.papermc.paperweight.userdev") version "2.0.0-beta.17" }```
+
+**[Purpur API](https://repo.purpurmc.org/javadoc/snapshots/org/purpurmc/purpur/purpur-api/1.19.4-R0.1-SNAPSHOT/raw/index.html) 1.19.4:**
+
+```dependencies { compileOnly("org.purpurmc.purpur:purpur-api:1.19.4-R0.1-SNAPSHOT") }```
+
+**[LuckPerms API](https://luckperms.net/wiki/Developer-API) 5.5:**
+
+```dependencies { compileOnly("net.luckperms:api:5.5") }```
 
 **Shadow license into jars at the end of tasks.processResources:**
 
