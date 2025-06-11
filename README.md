@@ -29,7 +29,7 @@ OG Suite is public domain software. Contributions are not accepted from citizens
 **Shadow license into jars at the end of tasks.processResources:**
 
 ```
-from("LICENSE") { 
+from("LICENSE") {
         into("/")
     } 
 }
@@ -56,7 +56,12 @@ tasks.withType<AbstractArchiveTask>().configureEach {
 
 **[Lettuce KeyDB-compatible API](https://lettuce.io/docs/getting-started.html) 6.7.1 for object storage < 1GB:**
 
-``` dependencies { implementation("io.lettuce:lettuce-core:6.7.1.RELEASE") }```
+```
+dependencies { implementation("io.lettuce:lettuce-core:6.7.1.RELEASE") }
+configurations.all {
+    exclude(group = "io.projectreactor")
+}
+```
 
 **Use the TrueOG prefix pattern (only &2 is mutable):**
 
