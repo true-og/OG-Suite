@@ -10,17 +10,17 @@ OG Suite is public domain software. Contributions are not accepted from citizens
 
 # All OG Suite plugins should abide by the following standards, if applicable:
 
-**Gradle 8.14.2:**
+**Gradle 8.14.3:**
 
-```./gradlew wrapper --gradle-version=8.14.2```
+```./gradlew wrapper --gradle-version=8.14.3```
 
 **Kotlin Gradle files:**
 
 ```build.gradle.kts, settings.gradle.kts```
 
-**Shadow 8.3.6 from gradleup:**
+**Shadow 8.3.8 from gradleup:**
 
-```plugins { id("com.gradleup.shadow") version "8.3.6" }```
+```plugins { id("com.gradleup.shadow") version "8.3.8" }```
 
 **[Paperweight API](https://docs.papermc.io/paper/dev/userdev/) 2.0.0-beta.17:**
 
@@ -54,7 +54,7 @@ tasks.withType<AbstractArchiveTask>().configureEach {
 
 **Import TrueOG Network internal dependencies from source via bootstrap.sh.**
 
-**Use palantir auto-formatting.**
+**Use TrueOG's custom eclipse auto-formatting and checkstyle profile for java.**
 
 **Examples in:**
 
