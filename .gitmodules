@@ -64,3 +64,6 @@
 [submodule "DiamondBank-OG"]
 	path = DiamondBank-OG
 	url = https://github.com/true-og/DiamondBank-OG
+[submodule "Scoreboard-OG"]
+	path = Scoreboard-OG
+	url = https://github.com/true-og/Scoreboard-OG
