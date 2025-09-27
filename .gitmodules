@@ -61,3 +61,6 @@
 [submodule "ShopBridge-OG"]
 	path = ShopBridge-OG
 	url = https://github.com/true-og/ShopBridge-OG
+[submodule "DiamondBank-OG"]
+	path = DiamondBank-OG
+	url = https://github.com/true-og/DiamondBank-OG
