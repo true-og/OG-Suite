@@ -67,3 +67,6 @@
 [submodule "Scoreboard-OG"]
 	path = Scoreboard-OG
 	url = https://github.com/true-og/Scoreboard-OG
+[submodule "AntiPieRay-OG"]
+	path = AntiPieRay-OG
+	url = https://github.com/true-og/AntiPieRay-OG
