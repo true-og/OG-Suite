@@ -73,3 +73,6 @@
 [submodule "MiniPlaceholders-DiamondBank-OG"]
 	path = MiniPlaceholders-DiamondBank-OG
 	url = https://github.com/true-og/MiniPlaceholders-DiamondBank-OG
+[submodule "ChunkCap-OG"]
+	path = ChunkCap-OG
+	url = https://github.com/true-og/ChunkCap-OG
