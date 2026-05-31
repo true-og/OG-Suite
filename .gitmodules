@@ -73,3 +73,6 @@
 [submodule "ChunkCap-OG"]
 	path = ChunkCap-OG
 	url = https://github.com/true-og/ChunkCap-OG
+[submodule "FireFight-OG"]
+	path = FireFight-OG
+	url = https://github.com/true-og/FireFight-OG
