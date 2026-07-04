@@ -76,3 +76,6 @@
 [submodule "FireFight-OG"]
 	path = FireFight-OG
 	url = https://github.com/true-og/FireFight-OG
+[submodule "Haven-OG"]
+	path = Haven-OG
+	url = https://github.com/true-og/Haven-OG
