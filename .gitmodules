@@ -16,9 +16,6 @@
 [submodule "NoClip-OG"]
 	path = NoClip-OG
 	url = https://github.com/true-og/NoClip-OG
-[submodule "RandomDrops-OG"]
-	path = RandomDrops-OG
-	url = https://github.com/true-og/RandomDrops-OG
 [submodule "RewindFix-OG"]
 	path = RewindFix-OG
 	url = https://github.com/true-og/RewindFix-OG
