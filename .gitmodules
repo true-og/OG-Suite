@@ -73,3 +73,6 @@
 [submodule "Haven-OG"]
 	path = Haven-OG
 	url = https://git.trueog.net/trueog/Haven-OG
+[submodule "DuelEnhancer-OG"]
+	path = DuelEnhancer-OG
+	url = https://git.trueog.net/trueog/DuelEnhancer-OG
