@@ -1,75 +1,75 @@
 [submodule "BuffRates-OG"]
 	path = BuffRates-OG
-	url = https://github.com/true-og/BuffRates-OG
+	url = https://git.trueog.net/trueog/BuffRates-OG
 [submodule "FlyingBow-OG"]
 	path = FlyingBow-OG
-	url = https://github.com/true-og/FlyingBow-OG
+	url = https://git.trueog.net/trueog/FlyingBow-OG
 [submodule "GxUI-OG"]
 	path = GxUI-OG
-	url = https://github.com/true-og/GxUI-OG
+	url = https://git.trueog.net/trueog/GxUI-OG
 [submodule "HorseTp-OG"]
 	path = HorseTp-OG
-	url = https://github.com/true-og/HorseTp-OG
+	url = https://git.trueog.net/trueog/HorseTP-OG
 [submodule "LaunchPads-OG"]
 	path = LaunchPads-OG
-	url = https://github.com/true-og/LaunchPads-OG
+	url = https://git.trueog.net/trueog/LaunchPads-OG
 [submodule "NoClip-OG"]
 	path = NoClip-OG
-	url = https://github.com/true-og/NoClip-OG
+	url = https://git.trueog.net/trueog/NoClip-OG
 [submodule "RewindFix-OG"]
 	path = RewindFix-OG
-	url = https://github.com/true-og/RewindFix-OG
+	url = https://git.trueog.net/trueog/RewindFix-OG
 [submodule "ShulkerStacking-OG"]
 	path = ShulkerStacking-OG
-	url = https://github.com/true-og/ShulkerStacking-OG
+	url = https://git.trueog.net/trueog/ShulkerStacking-OG
 [submodule "Staff-OG"]
 	path = Staff-OG
-	url = https://github.com/true-og/Staff-OG
+	url = https://git.trueog.net/trueog/Staff-OG
 [submodule "TheHerobrine-OG"]
 	path = TheHerobrine-OG
-	url = https://github.com/true-og/TheHerobrine-OG
+	url = https://git.trueog.net/trueog/TheHerobrine-OG
 [submodule "Utilities-OG"]
 	path = Utilities-OG
-	url = https://github.com/true-og/Utilities-OG
+	url = https://git.trueog.net/trueog/Utilities-OG
 [submodule "Template-OG"]
 	path = Template-OG
-	url = https://github.com/true-og/Template-OG
+	url = https://git.trueog.net/trueog/Template-OG
 [submodule "KotlinTemplate-OG"]
 	path = KotlinTemplate-OG
-	url = https://github.com/true-og/KotlinTemplate-OG
+	url = https://git.trueog.net/trueog/KotlinTemplate-OG
 [submodule "HolyGrail-OG"]
 	path = HolyGrail-OG
-	url = https://github.com/true-og/HolyGrail-OG
+	url = https://git.trueog.net/trueog/HolyGrail-OG
 [submodule "Chat-OG"]
 	path = Chat-OG
-	url = https://github.com/true-og/Chat-OG
+	url = https://git.trueog.net/trueog/Chat-OG
 [submodule "Quests-OG"]
 	path = Quests-OG
-	url = https://github.com/true-og/Quests-OG
+	url = https://git.trueog.net/trueog/Quests-OG
 [submodule "MobHeads-OG"]
 	path = MobHeads-OG
-	url = https://github.com/true-og/MobHeads-OG
+	url = https://git.trueog.net/trueog/MobHeads-OG
 [submodule "ShopBridge-OG"]
 	path = ShopBridge-OG
-	url = https://github.com/true-og/ShopBridge-OG
+	url = https://git.trueog.net/trueog/ShopBridge-OG
 [submodule "DiamondBank-OG"]
 	path = DiamondBank-OG
-	url = https://github.com/true-og/DiamondBank-OG
+	url = https://git.trueog.net/trueog/DiamondBank-OG
 [submodule "Scoreboard-OG"]
 	path = Scoreboard-OG
-	url = https://github.com/true-og/Scoreboard-OG
+	url = https://git.trueog.net/trueog/Scoreboard-OG
 [submodule "AntiPieRay-OG"]
 	path = AntiPieRay-OG
-	url = https://github.com/true-og/AntiPieRay-OG
+	url = https://git.trueog.net/trueog/AntiPieRay-OG
 [submodule "MiniPlaceholders-DiamondBank-OG"]
 	path = MiniPlaceholders-DiamondBank-OG
-	url = https://github.com/true-og/MiniPlaceholders-DiamondBank-OG
+	url = https://git.trueog.net/trueog/MiniPlaceholders-DiamondBank-OG
 [submodule "ChunkCap-OG"]
 	path = ChunkCap-OG
-	url = https://github.com/true-og/ChunkCap-OG
+	url = https://git.trueog.net/trueog/ChunkCap-OG
 [submodule "FireFight-OG"]
 	path = FireFight-OG
-	url = https://github.com/true-og/FireFight-OG
+	url = https://git.trueog.net/trueog/FireFight-OG
 [submodule "Haven-OG"]
 	path = Haven-OG
-	url = https://github.com/true-og/Haven-OG
+	url = https://git.trueog.net/trueog/Haven-OG
