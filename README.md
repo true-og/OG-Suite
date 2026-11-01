@@ -1,6 +1,6 @@
 # OG-Suite
 
-![Icon](https://github.com/true-og/website/blob/main/assets/images/logos/Logo-Alternate-Transparent.png)
+![Icon](https://git.trueog.net/trueog/website/raw/branch/main/assets/images/logos/Logo-Alternate-Transparent.png)
 
 *ad astra per aspera*
 
@@ -58,9 +58,9 @@ tasks.withType<AbstractArchiveTask>().configureEach {
 
 **Examples in:**
 
-[Template-OG](https://github.com/true-og/Template-OG) (Java)
+[Template-OG](https://git.trueog.net/trueog/Template-OG) (Java)
 
-[KotlinTemplate-OG](https://github.com/true-og/KotlinTemplate-OG) (Kotlin)
+[KotlinTemplate-OG](https://git.trueog.net/trueog/KotlinTemplate-OG) (Kotlin)
 
 **[Jasync Postgres API](https://github.com/jasync-sql/jasync-sql) 2.2.4 for object storage > 1GB:**
 
